@@ -1,0 +1,11 @@
+{
+  "campus": {"model":"/assets/models/campus.glb","displaySpan":2.25,"verifiedLocations":false},
+  "pins": [
+    {"birdId":"falco-sparverius","position":[-0.1,0.2,0.6]},
+    {"birdId":"setophaga-pitiayumi","position":[0.4,0.2,0.2]},
+    {"birdId":"camptostoma-obsoletum","position":[0.1,0.2,0.1]},
+    {"birdId":"colaptes-rubiginosus","position":[-0.3,0.3,-0.7]},
+    {"birdId":"chlorostilbon-melanorhynchus","position":[0.3,0.2,-0.2]}
+  ],
+  "note":"Posiciones ilustrativas sobre la maqueta. El equipo debe confirmar zonas y correspondencia; no representan avistamientos."
+}

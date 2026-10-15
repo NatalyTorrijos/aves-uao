@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#8A1C28">
+  <meta name="description" content="Descubre cinco aves del campus de la Universidad Autónoma de Occidente. Explora, escucha y aprende en realidad aumentada.">
+  <title>Descubre la vida del campus · UAO</title>
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <header class="topbar"><a href="#inicio" class="logo-link" aria-label="UAO · Inicio"><img src="/assets/brand/uao.jpeg" alt="UAO" width="92" height="31"></a><nav class="desktop-nav" aria-label="Navegación principal"><a href="#inicio">Inicio</a><a href="#mis-aves">Mis Aves</a><a href="#sostenible">UAO Sostenible</a></nav><a href="#quiz" class="quiz-link"><span class="symbol" aria-hidden="true">quiz</span> Quiz</a></header>
+  <main id="main" tabindex="-1"></main>
+  <footer class="site-footer"><span>Un campus. Muchas formas de vida.</span><small>Proyecto académico · Ingeniería Multimedia · UAO, Cali</small><a href="#creditos">Fuentes y créditos</a></footer>
+  <nav class="bottom-nav" aria-label="Navegación móvil"><a href="#inicio"><span class="symbol" aria-hidden="true">home</span>Inicio</a><a href="#mis-aves"><span class="symbol" aria-hidden="true">favorite</span>Mis Aves</a><a href="#sostenible"><span class="symbol" aria-hidden="true">eco</span>Sostenible</a></nav>
+  <section id="experience" hidden aria-label="Experiencia interactiva"><div id="scene-host"></div><div class="scene-top"><div><span id="scene-mode" class="scene-mode"></span><p id="scene-title"></p></div><button id="scene-exit" class="uao-icon-button" aria-label="Salir de la experiencia">✕</button></div><div id="scene-center" class="scene-center" aria-hidden="true"><span>+</span></div><div id="scene-tools" class="scene-tools"><button id="scene-map" class="uao-icon-button" aria-label="Volver al campus"><span class="symbol" aria-hidden="true">map</span></button><button id="scene-audio" class="uao-icon-button" aria-label="Escuchar canto" aria-pressed="false"><span class="symbol" aria-hidden="true">volume_up</span></button><button id="scene-info" class="uao-icon-button" aria-label="Información del ave"><span class="symbol" aria-hidden="true">info</span></button><button id="scene-scale-down" class="uao-icon-button" aria-label="Reducir modelo">−</button><button id="scene-scale-up" class="uao-icon-button" aria-label="Ampliar modelo">+</button></div><div id="scene-panel" class="scene-panel"><div id="scene-body"></div><p id="scene-status" role="status" aria-live="polite"></p><div class="scene-utility"><button id="scene-place" class="text-button">Recolocar</button><button id="scene-help" class="text-button">Ayuda</button><details><summary>Diagnóstico</summary><output id="scene-metrics"></output></details></div></div></section>
+  <dialog id="dialog"><button class="dialog-close uao-icon-button" data-close aria-label="Cerrar">✕</button><div id="dialog-content"></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <script type="module" src="/src/app.js"></script>
+</body>
+</html>

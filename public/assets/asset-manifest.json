@@ -1,0 +1,1507 @@
+{
+  "schemaVersion": 1,
+  "preparedOn": "2026-10-14",
+  "birds": {
+    "cernicalo-americano": {
+      "name": "Cernícalo Americano",
+      "model": {
+        "path": "/assets/models/cernicalo-americano.glb",
+        "bytes": 9676516,
+        "sha256": "79c4be5f9525037305822290129337f8bdcaa3a1b242387095a2161fc1559b30",
+        "source": "recursos-originales/modelos-animados/2026-10-14/Peregrine.glb",
+        "sourceBytes": 119047720,
+        "sourceSha256": "02f911230806baa984bf27546863ba29f386b9253e34c0d09dac587a19fa202d",
+        "savedPercent": 91.87,
+        "activeSceneFingerprint": "87e851b07bae153b51289fdb79f8100a68eb29549a12761bb490a0732d14d2e1",
+        "activeScenePreserved": true,
+        "retainedAnimationDataPreserved": true,
+        "sceneCount": 1,
+        "embeddedImagesDecoded": true,
+        "embeddedImages": [
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 4096,
+            "height": 4096,
+            "mode": "RGB"
+          }
+        ],
+        "triangles": 4827,
+        "skins": 1,
+        "joints": 28,
+        "clips": [
+          {
+            "index": 0,
+            "name": "SmartRigArmature.001_acción",
+            "durationSeconds": 8.0,
+            "channels": 85,
+            "varyingChannels": 4,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 27,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 4,
+                "name": "Bone_006",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 29,
+                "name": "SmartRigArmature",
+                "path": "rotation",
+                "joint": false
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 1,
+            "name": "SmartRigArmature.002_acción",
+            "durationSeconds": 8.0,
+            "channels": 85,
+            "varyingChannels": 4,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 9,
+                "name": "Bone_011",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 11,
+                "name": "Bone_013",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 29,
+                "name": "SmartRigArmature",
+                "path": "rotation",
+                "joint": false
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 2,
+            "name": "SmartRigArmature.003_acción",
+            "durationSeconds": 3.2,
+            "channels": 85,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 3,
+            "name": "SmartRigArmature.003_acción.001",
+            "durationSeconds": 7.6333,
+            "channels": 84,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 27,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 27,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 1,
+                "name": "Bone_003",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 4,
+            "name": "SmartRigArmature.004_acción",
+            "durationSeconds": 2.7,
+            "channels": 86,
+            "varyingChannels": 0,
+            "varyingJointChannels": 0,
+            "varyingTargets": [],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 5,
+            "name": "SmartRigArmature.004_acción.001",
+            "durationSeconds": 6.4,
+            "channels": 84,
+            "varyingChannels": 3,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 2,
+                "name": "Bone_004",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 13,
+                "name": "Bone_015",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 6,
+            "name": "SmartRigArmature_acción.001",
+            "durationSeconds": 8.0,
+            "channels": 85,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 27,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 19,
+                "name": "Bone_018",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 25,
+                "name": "Bone_021",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 7,
+            "name": "Take 001",
+            "durationSeconds": 0.8,
+            "channels": 84,
+            "varyingChannels": 0,
+            "varyingJointChannels": 0,
+            "varyingTargets": [],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          }
+        ],
+        "clipCount": 8,
+        "movingClipCount": 6,
+        "suggestedPreviewClipIndex": 0,
+        "clipSelectionNote": "Primer clip con canales de huesos variables; no atribuye conducta biológica. Requiere revisión visual.",
+        "mobilePerformanceValidated": false
+      },
+      "audio": {
+        "path": "/assets/audio/cernicalo-americano.mp3",
+        "bytes": 2468781,
+        "sha256": "45d13281062ac89054d5768ce65e37d07754b8d4ea6c2b90fd165242113519c1",
+        "source": "recursos-originales/audios/2026-10-14/Peregrine.wav",
+        "sourceBytes": 22210884,
+        "sourceSha256": "354a8dbe9000b1c62e3e59f2754a2c309bddd41b4027cbc2c2600640c6edfe03",
+        "sourceFrames": 7403489,
+        "decodedFrames": 7403489,
+        "durationSeconds": 154.239354,
+        "sampleRateHz": 48000.0,
+        "channels": 1,
+        "codec": "MP3",
+        "convertedFromWav": true,
+        "conversionBitrateKbps": 128,
+        "trimmed": false,
+        "normalized": false,
+        "fullDecodeVerified": true,
+        "decodeEngine": "Blender aud / FFmpeg",
+        "decodedPeak": 0.236911,
+        "decodedRms": 0.023597,
+        "acousticSpeciesIdentityVerified": false,
+        "attribution": {
+          "author": "Cristian Pinto Fernandez",
+          "year": 2022,
+          "sourceUrl": null,
+          "license": null,
+          "note": "Metadato ID3: Cernicalo. Fuente, licencia e identidad exacta pendientes."
+        }
+      },
+      "photo": {
+        "path": "/assets/images/cernicalo-americano.jpg",
+        "bytes": 31158,
+        "sha256": "f48e9272432138a0270dd03ea53f3aa60e42d763d1e30592df35e0a354ef43f0",
+        "source": "AvesRA/PROPUESTA DE EXPERIENCIA INTERACTIVA.docx",
+        "sourceMember": "word/media/image5.jpg",
+        "dimensions": [
+          640,
+          480
+        ],
+        "originalImagePreserved": true,
+        "decodeVerified": true,
+        "attribution": {
+          "author": null,
+          "license": null,
+          "note": "Fotografía aportada por el equipo en el Word. Autoría/licencia pendientes; conservar posibles marcas de crédito visibles."
+        }
+      }
+    },
+    "reinita-tropical": {
+      "name": "Reinita Tropical",
+      "model": {
+        "path": "/assets/models/reinita-tropical.glb",
+        "bytes": 11022452,
+        "sha256": "aa65131bcaee6392b6eee56cec7699b4dcf9e9bb449ed163cdcfb85025c54a24",
+        "source": "recursos-originales/modelos-animados/2026-10-14/ReinitaTropical.glb",
+        "sourceBytes": 119047972,
+        "sourceSha256": "5c18e48557bcce2908be5a329c138962e3e97ae23652f894a8ab9ee960d853c8",
+        "savedPercent": 90.74,
+        "activeSceneFingerprint": "80dca4d0cfefc1913d443019a7bd2a0303c7abaf29a5c719b57cd17d68b2818d",
+        "activeScenePreserved": true,
+        "retainedAnimationDataPreserved": true,
+        "sceneCount": 1,
+        "embeddedImagesDecoded": true,
+        "embeddedImages": [
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 4096,
+            "height": 4096,
+            "mode": "RGB"
+          }
+        ],
+        "triangles": 5910,
+        "skins": 1,
+        "joints": 55,
+        "clips": [
+          {
+            "index": 0,
+            "name": "SmartRigArmature.001_acción",
+            "durationSeconds": 10.0,
+            "channels": 166,
+            "varyingChannels": 4,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 54,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 26,
+                "name": "Bone_006",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 49,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 56,
+                "name": "SmartRigArmature.004",
+                "path": "rotation",
+                "joint": false
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 1,
+            "name": "SmartRigArmature.002_acción",
+            "durationSeconds": 10.0,
+            "channels": 166,
+            "varyingChannels": 4,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 46,
+                "name": "Bone_011",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 45,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 48,
+                "name": "Bone_013",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 56,
+                "name": "SmartRigArmature.004",
+                "path": "rotation",
+                "joint": false
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 2,
+            "name": "SmartRigArmature.003_acción",
+            "durationSeconds": 4.0,
+            "channels": 166,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 6,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 45,
+                "name": "Bone_010",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 45,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 49,
+                "name": "Bone_014",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 49,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 3,
+            "name": "SmartRigArmature.003_acción.001",
+            "durationSeconds": 9.5417,
+            "channels": 165,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 54,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 54,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 7,
+                "name": "Bone_003",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 45,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 49,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 4,
+            "name": "SmartRigArmature.004_acción",
+            "durationSeconds": 3.375,
+            "channels": 167,
+            "varyingChannels": 1,
+            "varyingJointChannels": 1,
+            "varyingTargets": [
+              {
+                "node": 15,
+                "name": "Bone_030",
+                "path": "translation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 5,
+            "name": "SmartRigArmature.004_acción.001",
+            "durationSeconds": 8.0,
+            "channels": 165,
+            "varyingChannels": 3,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 8,
+                "name": "Bone_004",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 6,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 50,
+                "name": "Bone_015",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 6,
+            "name": "SmartRigArmature_acción.001",
+            "durationSeconds": 10.0,
+            "channels": 166,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 54,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 6,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 0,
+                "name": "Bone_018",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 3,
+                "name": "Bone_021",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 49,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 7,
+            "name": "Take 001",
+            "durationSeconds": 1.0,
+            "channels": 165,
+            "varyingChannels": 0,
+            "varyingJointChannels": 0,
+            "varyingTargets": [],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          }
+        ],
+        "clipCount": 8,
+        "movingClipCount": 7,
+        "suggestedPreviewClipIndex": 0,
+        "clipSelectionNote": "Primer clip con canales de huesos variables; no atribuye conducta biológica. Requiere revisión visual.",
+        "mobilePerformanceValidated": false
+      },
+      "audio": {
+        "path": "/assets/audio/reinita-tropical.mp3",
+        "bytes": 272989,
+        "sha256": "291b353c92cfad07563128855879bbbacb421daf0e5bff3b8edb998ab568c007",
+        "source": "recursos-originales/audios/2026-10-14/Reinita Tropical.mp3",
+        "sourceBytes": 272989,
+        "sourceSha256": "291b353c92cfad07563128855879bbbacb421daf0e5bff3b8edb998ab568c007",
+        "sourceFrames": 747953,
+        "decodedFrames": 747953,
+        "durationSeconds": 16.960385,
+        "sampleRateHz": 44100.0,
+        "channels": 2,
+        "codec": "MP3",
+        "convertedFromWav": false,
+        "conversionBitrateKbps": null,
+        "trimmed": false,
+        "normalized": false,
+        "fullDecodeVerified": true,
+        "decodeEngine": "Blender aud / FFmpeg",
+        "decodedPeak": 0.264453,
+        "decodedRms": 0.015165,
+        "acousticSpeciesIdentityVerified": false,
+        "attribution": {
+          "author": "Étienne Leroy",
+          "year": 2026,
+          "sourceUrl": "https://xeno-canto.org/1184753",
+          "license": null,
+          "note": "Fuente declarada en metadatos; licencia de la ficha pendiente."
+        }
+      },
+      "photo": {
+        "path": "/assets/images/reinita-tropical.jpg",
+        "bytes": 31571,
+        "sha256": "597fe9f76079b2afd2cb08a15518514ad53d206502e2aae3d1faa367f7d983ca",
+        "source": "AvesRA/PROPUESTA DE EXPERIENCIA INTERACTIVA.docx",
+        "sourceMember": "word/media/image3.jpg",
+        "dimensions": [
+          678,
+          452
+        ],
+        "originalImagePreserved": true,
+        "decodeVerified": true,
+        "attribution": {
+          "author": null,
+          "license": null,
+          "note": "Fotografía aportada por el equipo en el Word. Autoría/licencia pendientes; conservar posibles marcas de crédito visibles."
+        }
+      }
+    },
+    "mosquerito-silbon": {
+      "name": "Mosquerito Silbón",
+      "model": {
+        "path": "/assets/models/mosquerito-silbon.glb",
+        "bytes": 13656368,
+        "sha256": "8dc9d1325381631898fdeab3344546afa96565abf874409b574afe92d2d68ad1",
+        "source": "recursos-originales/modelos-animados/2026-10-14/MosquiteroSilbon.glb",
+        "sourceBytes": 119046528,
+        "sourceSha256": "f2d5451d4d439710d132d008e2ff81bc783bc13e9a434b8ee527edcc1764b6ae",
+        "savedPercent": 88.53,
+        "activeSceneFingerprint": "25d383eedcae4c4622f104135fc701c9a9fb752762c90890de1009bf8db41701",
+        "activeScenePreserved": true,
+        "retainedAnimationDataPreserved": true,
+        "sceneCount": 1,
+        "embeddedImagesDecoded": true,
+        "embeddedImages": [
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 4096,
+            "height": 4096,
+            "mode": "RGB"
+          }
+        ],
+        "triangles": 5734,
+        "skins": 1,
+        "joints": 15,
+        "clips": [
+          {
+            "index": 0,
+            "name": "SmartRigArmature.001_acción",
+            "durationSeconds": 10.0,
+            "channels": 46,
+            "varyingChannels": 4,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 14,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 4,
+                "name": "Bone_006",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 16,
+                "name": "SmartRigArmature.002",
+                "path": "rotation",
+                "joint": false
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 1,
+            "name": "SmartRigArmature.002_acción",
+            "durationSeconds": 10.0,
+            "channels": 46,
+            "varyingChannels": 4,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 9,
+                "name": "Bone_011",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 11,
+                "name": "Bone_013",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 16,
+                "name": "SmartRigArmature.002",
+                "path": "rotation",
+                "joint": false
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 2,
+            "name": "SmartRigArmature.003_acción",
+            "durationSeconds": 4.0,
+            "channels": 46,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 3,
+            "name": "SmartRigArmature.003_acción.001",
+            "durationSeconds": 9.5417,
+            "channels": 45,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 14,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 14,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 1,
+                "name": "Bone_003",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 4,
+            "name": "SmartRigArmature.004_acción",
+            "durationSeconds": 3.375,
+            "channels": 47,
+            "varyingChannels": 0,
+            "varyingJointChannels": 0,
+            "varyingTargets": [],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 5,
+            "name": "SmartRigArmature.004_acción.001",
+            "durationSeconds": 8.0,
+            "channels": 45,
+            "varyingChannels": 2,
+            "varyingJointChannels": 2,
+            "varyingTargets": [
+              {
+                "node": 2,
+                "name": "Bone_004",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 6,
+            "name": "SmartRigArmature_acción.001",
+            "durationSeconds": 10.0,
+            "channels": 45,
+            "varyingChannels": 3,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 14,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 7,
+            "name": "Take 001",
+            "durationSeconds": 1.0,
+            "channels": 45,
+            "varyingChannels": 0,
+            "varyingJointChannels": 0,
+            "varyingTargets": [],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          }
+        ],
+        "clipCount": 8,
+        "movingClipCount": 6,
+        "suggestedPreviewClipIndex": 0,
+        "clipSelectionNote": "Primer clip con canales de huesos variables; no atribuye conducta biológica. Requiere revisión visual.",
+        "mobilePerformanceValidated": false
+      },
+      "audio": {
+        "path": "/assets/audio/mosquerito-silbon.mp3",
+        "bytes": 700961,
+        "sha256": "deb9ac9f932a8fb0a76f079eee69ac1bbba882122591461e5930efc13f1f14ab",
+        "source": "recursos-originales/audios/2026-10-14/Mosquerito Silbón.wav",
+        "sourceBytes": 7715460,
+        "sourceSha256": "54c8e72f5b03c0f5512267a673894f5d31df5f257cf6df952bb498475a86ea9b",
+        "sourceFrames": 1928609,
+        "decodedFrames": 1928609,
+        "durationSeconds": 43.73263,
+        "sampleRateHz": 44100.0,
+        "channels": 2,
+        "codec": "MP3",
+        "convertedFromWav": true,
+        "conversionBitrateKbps": 128,
+        "trimmed": false,
+        "normalized": false,
+        "fullDecodeVerified": true,
+        "decodeEngine": "Blender aud / FFmpeg",
+        "decodedPeak": 0.825006,
+        "decodedRms": 0.016643,
+        "acousticSpeciesIdentityVerified": false,
+        "attribution": {
+          "author": null,
+          "year": null,
+          "sourceUrl": null,
+          "license": null,
+          "note": "Sin autor ni licencia recuperados. El enlace del Word XC1140314 no acredita este WAV."
+        }
+      },
+      "photo": {
+        "path": "/assets/images/mosquerito-silbon.jpg",
+        "bytes": 23672,
+        "sha256": "3f79f543db25e11e0143005f4d4d3ae3abe25c30a51173ecc14ab9b9fe0d1563",
+        "source": "AvesRA/PROPUESTA DE EXPERIENCIA INTERACTIVA.docx",
+        "sourceMember": "word/media/image4.jpg",
+        "dimensions": [
+          649,
+          472
+        ],
+        "originalImagePreserved": true,
+        "decodeVerified": true,
+        "attribution": {
+          "author": null,
+          "license": null,
+          "note": "Fotografía aportada por el equipo en el Word. Autoría/licencia pendientes; conservar posibles marcas de crédito visibles."
+        }
+      }
+    },
+    "carpintero-cariblanco": {
+      "name": "Carpintero Cariblanco",
+      "model": {
+        "path": "/assets/models/carpintero-cariblanco.glb",
+        "bytes": 17556924,
+        "sha256": "1d174fbd6e19d0882657b30d98856ea2a433b057499b3dcce201c18ce99e8348",
+        "source": "recursos-originales/modelos-animados/2026-10-14/CarpinteroCariblanco.glb",
+        "sourceBytes": 17556924,
+        "sourceSha256": "c9a0843d22e4ac39e4d9a5b63778a331de98f5e81a5b10d78d05946241e86b09",
+        "savedPercent": 0.0,
+        "activeSceneFingerprint": "226e2394ca666d3f6a4d275c21815b000d58d430abda73a15ea717829fce1b66",
+        "activeScenePreserved": true,
+        "retainedAnimationDataPreserved": true,
+        "sceneCount": 1,
+        "embeddedImagesDecoded": true,
+        "embeddedImages": [
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 4096,
+            "height": 4096,
+            "mode": "RGB"
+          }
+        ],
+        "triangles": 6303,
+        "skins": 1,
+        "joints": 40,
+        "clips": [],
+        "clipCount": 0,
+        "movingClipCount": 0,
+        "suggestedPreviewClipIndex": null,
+        "clipSelectionNote": "Primer clip con canales de huesos variables; no atribuye conducta biológica. Requiere revisión visual.",
+        "mobilePerformanceValidated": false
+      },
+      "audio": {
+        "path": "/assets/audio/carpintero-cariblanco.mp3",
+        "bytes": 243996,
+        "sha256": "6da164d465584c6e6c46d5afae2864f4d8e1865653c0e1b88ad222550e4eb72f",
+        "source": "recursos-originales/audios/2026-10-14/Carpintero Cariblanco.mp3",
+        "sourceBytes": 243996,
+        "sourceSha256": "6da164d465584c6e6c46d5afae2864f4d8e1865653c0e1b88ad222550e4eb72f",
+        "sourceFrames": 260503,
+        "decodedFrames": 260503,
+        "durationSeconds": 5.907098,
+        "sampleRateHz": 44100.0,
+        "channels": 2,
+        "codec": "MP3",
+        "convertedFromWav": false,
+        "conversionBitrateKbps": null,
+        "trimmed": false,
+        "normalized": false,
+        "fullDecodeVerified": true,
+        "decodeEngine": "Blender aud / FFmpeg",
+        "decodedPeak": 0.491863,
+        "decodedRms": 0.053412,
+        "acousticSpeciesIdentityVerified": false,
+        "attribution": {
+          "author": "Jerome Fischer",
+          "year": 2020,
+          "sourceUrl": "https://xeno-canto.org/615457",
+          "license": "CC BY-NC-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "note": "Licencia declarada en metadatos. El grabador indica 90 % de probabilidad de identificación y ave no vista."
+        }
+      },
+      "photo": {
+        "path": "/assets/images/carpintero-cariblanco.jpg",
+        "bytes": 31776,
+        "sha256": "99edf44bb4f1da5fe86644f628aacafd91a67f66fb091eea1726981046aff16f",
+        "source": "AvesRA/PROPUESTA DE EXPERIENCIA INTERACTIVA.docx",
+        "sourceMember": "word/media/image1.jpg",
+        "dimensions": [
+          630,
+          487
+        ],
+        "originalImagePreserved": true,
+        "decodeVerified": true,
+        "attribution": {
+          "author": null,
+          "license": null,
+          "note": "Fotografía aportada por el equipo en el Word. Autoría/licencia pendientes; conservar posibles marcas de crédito visibles."
+        }
+      }
+    },
+    "colibri-esmeralda": {
+      "name": "Colibrí Esmeralda",
+      "model": {
+        "path": "/assets/models/colibri-esmeralda.glb",
+        "bytes": 10563360,
+        "sha256": "ca1665c63b44d148855a152660fd4b3f13759a08caf7b5a6feac9bceab81a2c9",
+        "source": "recursos-originales/modelos-animados/2026-10-14/ColibriEsmeralda.glb",
+        "sourceBytes": 68487220,
+        "sourceSha256": "a0d35a2f13e68c9392152650866cf72bcc17f9324354749032297127ef9f0887",
+        "savedPercent": 84.58,
+        "activeSceneFingerprint": "fad5158eda1f686e04494370b1dd084d1762610d4189a2715bb279ec28755c26",
+        "activeScenePreserved": true,
+        "retainedAnimationDataPreserved": true,
+        "sceneCount": 1,
+        "embeddedImagesDecoded": true,
+        "embeddedImages": [
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 2048,
+            "height": 2048,
+            "mode": "RGB"
+          },
+          {
+            "width": 4096,
+            "height": 4096,
+            "mode": "RGB"
+          }
+        ],
+        "triangles": 5348,
+        "skins": 1,
+        "joints": 16,
+        "clips": [
+          {
+            "index": 0,
+            "name": "SmartRigArmature.001_acción",
+            "durationSeconds": 10.0,
+            "channels": 49,
+            "varyingChannels": 4,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 15,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 4,
+                "name": "Bone_006",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 17,
+                "name": "SmartRigArmature.003",
+                "path": "rotation",
+                "joint": false
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 1,
+            "name": "SmartRigArmature.002_acción",
+            "durationSeconds": 9.9583,
+            "channels": 48,
+            "varyingChannels": 3,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 9,
+                "name": "Bone_011",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 11,
+                "name": "Bone_013",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 2,
+            "name": "SmartRigArmature.003_acción",
+            "durationSeconds": 4.0,
+            "channels": 49,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 3,
+            "name": "SmartRigArmature.003_acción.001",
+            "durationSeconds": 9.5417,
+            "channels": 48,
+            "varyingChannels": 5,
+            "varyingJointChannels": 5,
+            "varyingTargets": [
+              {
+                "node": 15,
+                "name": "Bone_000",
+                "path": "translation",
+                "joint": true
+              },
+              {
+                "node": 15,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 1,
+                "name": "Bone_003",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 8,
+                "name": "Bone_010",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 4,
+            "name": "SmartRigArmature.004_acción",
+            "durationSeconds": 3.375,
+            "channels": 50,
+            "varyingChannels": 0,
+            "varyingJointChannels": 0,
+            "varyingTargets": [],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 5,
+            "name": "SmartRigArmature_acción.001",
+            "durationSeconds": 10.0,
+            "channels": 48,
+            "varyingChannels": 3,
+            "varyingJointChannels": 3,
+            "varyingTargets": [
+              {
+                "node": 15,
+                "name": "Bone_000",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 0,
+                "name": "Bone_002",
+                "path": "rotation",
+                "joint": true
+              },
+              {
+                "node": 12,
+                "name": "Bone_014",
+                "path": "rotation",
+                "joint": true
+              }
+            ],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          },
+          {
+            "index": 6,
+            "name": "Take 001",
+            "durationSeconds": 1.0,
+            "channels": 48,
+            "varyingChannels": 0,
+            "varyingJointChannels": 0,
+            "varyingTargets": [],
+            "variationThreshold": 1e-05,
+            "behaviorValidated": false
+          }
+        ],
+        "clipCount": 7,
+        "movingClipCount": 5,
+        "suggestedPreviewClipIndex": 0,
+        "clipSelectionNote": "Primer clip con canales de huesos variables; no atribuye conducta biológica. Requiere revisión visual.",
+        "mobilePerformanceValidated": false
+      },
+      "audio": {
+        "path": "/assets/audio/colibri-esmeralda.mp3",
+        "bytes": 260734,
+        "sha256": "fa7aba380b02c1752fedf12d55987efc7f62a277f5a499aaa6a8a0900a308810",
+        "source": "recursos-originales/audios/2026-10-14/Colibrí Esmeralda.mp3",
+        "sourceBytes": 260734,
+        "sourceSha256": "fa7aba380b02c1752fedf12d55987efc7f62a277f5a499aaa6a8a0900a308810",
+        "sourceFrames": 278839,
+        "decodedFrames": 278839,
+        "durationSeconds": 6.32288,
+        "sampleRateHz": 44100.0,
+        "channels": 2,
+        "codec": "MP3",
+        "convertedFromWav": false,
+        "conversionBitrateKbps": null,
+        "trimmed": false,
+        "normalized": false,
+        "fullDecodeVerified": true,
+        "decodeEngine": "Blender aud / FFmpeg",
+        "decodedPeak": 0.296996,
+        "decodedRms": 0.029846,
+        "acousticSpeciesIdentityVerified": false,
+        "attribution": {
+          "author": "Jerome Fischer",
+          "year": 2020,
+          "sourceUrl": "https://xeno-canto.org/527987",
+          "license": "CC BY-NC-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "note": "Licencia declarada en metadatos; contrastar condiciones en la ficha fuente antes de publicación."
+        }
+      },
+      "photo": {
+        "path": "/assets/images/colibri-esmeralda.jpg",
+        "bytes": 71575,
+        "sha256": "ad198d4ab036aa4d62d905bc587c6d1ab467304e6ab510ba1b42856c5256bd7c",
+        "source": "AvesRA/PROPUESTA DE EXPERIENCIA INTERACTIVA.docx",
+        "sourceMember": "word/media/image2.jpg",
+        "dimensions": [
+          1200,
+          708
+        ],
+        "originalImagePreserved": true,
+        "decodeVerified": true,
+        "attribution": {
+          "author": null,
+          "license": null,
+          "note": "Fotografía aportada por el equipo en el Word. Autoría/licencia pendientes; conservar posibles marcas de crédito visibles."
+        }
+      }
+    }
+  },
+  "limitations": [
+    "La identidad acústica de las grabaciones no fue verificada mediante escucha experta.",
+    "La licencia y autoría de las fotografías del Word están pendientes de confirmar.",
+    "Los modelos conservan la apariencia recibida; no se corrigieron rasgos de especie.",
+    "Los índices de clip no equivalen a conductas biológicas verificadas.",
+    "La decodificación local no sustituye la prueba de audio y modelos en Safari/Chrome móvil."
+  ],
+  "campus": {
+    "path": "/assets/models/campus.glb",
+    "bytes": 33649396,
+    "sha256": "1b265a260641fe962e49f527c89fb212d5d9e682633ea7f4dc60b5dc6f3befb9",
+    "source": "recursos-originales/modelos-animados/2026-10-14/universidad2.glb",
+    "sourceBytes": 64157868,
+    "sourceSha256": "0b39c6223ad6874530633f5cd21958b7bedc92fa47e4c5d5f740ea9f959700d2",
+    "savedPercent": 47.55,
+    "activeSceneFingerprint": "67b8e24e9fc3dfd246ab11db26df855eacef0d64a32fc1ec5d9dead09ea22d31",
+    "activeScenePreserved": true,
+    "retainedAnimationDataPreserved": true,
+    "sceneCount": 1,
+    "embeddedImagesDecoded": true,
+    "embeddedImages": [
+      {
+        "width": 256,
+        "height": 256,
+        "mode": "RGB"
+      },
+      {
+        "width": 256,
+        "height": 128,
+        "mode": "P"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "P"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "P"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "P"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      },
+      {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGB"
+      }
+    ],
+    "triangles": 1228455,
+    "skins": 0,
+    "joints": 0,
+    "clips": [],
+    "clipCount": 0,
+    "movingClipCount": 0,
+    "suggestedPreviewClipIndex": null,
+    "clipSelectionNote": "Primer clip con canales de huesos variables; no atribuye conducta biológica. Requiere revisión visual.",
+    "mobilePerformanceValidated": false
+  },
+  "totalModelBytes": 96125016,
+  "totalAudioBytes": 3947461
+}

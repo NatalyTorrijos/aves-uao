@@ -1,0 +1,274 @@
+[
+  {
+    "id": "falco-sparverius",
+    "slug": "cernicalo-americano",
+    "name": "Cernícalo Americano",
+    "scientificName": "Falco sparverius",
+    "englishName": "American Kestrel",
+    "family": "Falconidae",
+    "guidePage": 24,
+    "animated": true,
+    "description": "Es un halcón pequeño que vive en gran parte de las Américas y se puede encontrar en hábitats urbanos, arroyos, cañones, desiertos y prados, entre otros. Se puede identificar gracias a sus colores: negro, azul, gris, rojo, marrón rojizo, blanco y amarillo. Además, su tamaño es similar al de un cuervo y sus alas largas, puntiagudas y curvadas con una cola larga de punta cuadrada. Consume más que todo pequeños mamíferos, insectos y reptiles, siendo los saltamontes su presa preferida. Este caza vigilando desde una posición alta y luego lanzándose en picada para atrapar a su presa.",
+    "trait": "Alas largas y angostas; cola de extremo cuadrado.",
+    "habitat": "En la Universidad, alrededor de las canchas deportivas y zonas abiertas de pasto con pocos obstáculos. Es un ave rapaz que frecuenta espacios abiertos con vegetación corta para cazar insectos y pequeños mamíferos.",
+    "behaviorInfo": "Suele posarse quieto en perchas altas y cernirse en el aire cuando busca presas.",
+    "curiousFact": "Falco viene del latín tardío y significa “halcón”. Sparverius viene del latín medieval y significa “gavilán”.",
+    "diet": "Pequeños mamíferos e insectos, que captura al descender desde una percha o desde el aire.",
+    "behavior": "Puede permanecer en una percha mientras observa el suelo. Anida en cavidades.",
+    "commonName": "Cernícalo Americano",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 24,
+      "year": 2023,
+      "linkedReference": "https://wikiaves.icesi.edu.co/birds/3349"
+    },
+    "image": "/assets/images/cernicalo-americano.jpg",
+    "model": "/assets/models/cernicalo-americano.glb",
+    "audio": "/assets/audio/cernicalo-americano.mp3",
+    "audioCredit": {
+      "author": "Cristian Pinto Fernandez",
+      "source": "Xeno-canto"
+    },
+    "videoUrl": "https://www.youtube.com/embed/Vfy3Na37xDk",
+    "videoCredit": {
+      "author": "Canal de YouTube: Cornell Lab of Ornithology",
+      "year": "2021",
+      "source": "YouTube"
+    },
+    "gallery": [
+      {
+        "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/302366931/1200",
+        "description": "Macho",
+        "author": "Brian Sullivan",
+        "source": "Macaulay Library / Cornell Lab of Ornithology"
+      }
+    ],
+    "zone": {
+      "label": "Cancha",
+      "provisional": true,
+      "description": "Zona sugerida e ilustrativa."
+    },
+    "interaction": {
+      "kind": "perch",
+      "title": "Una percha para observar",
+      "instruction": "Elige una percha virtual junto al espacio abierto.",
+      "explanation": "El Cernícalo observa espacios con vegetación corta desde una percha o desde el aire."
+    }
+  },
+  {
+    "id": "setophaga-pitiayumi",
+    "slug": "reinita-tropical",
+    "name": "Reinita Tropical",
+    "scientificName": "Setophaga pitiayumi",
+    "englishName": "Tropical Parula",
+    "family": "Parulidae",
+    "guidePage": 29,
+    "animated": true,
+    "description": "Esta pequeña ave no migratoria, de unos 10 cm y 7 g, habita principalmente en bosques premontanos y suele encontrarse sola o en pareja. Posee un característico pico bicolor negro y amarillo, y un plumaje donde predominan los tonos azul grisáceo y amarillo con marcas blancas; las hembras se diferencian sutilmente de los machos por tener un tinte anaranjado más tenue en el pecho. Su dieta se compone fundamentalmente de insectos. A pesar de su pequeño tamaño, posee un canto melodioso muy activo y persistente.",
+    "trait": "Garganta y pecho amarillo-anaranjados, dorso gris azulado y espalda verde.",
+    "habitat": "Puedes mirar cerca de los dos lagos de la uni o los corredores con vegetación húmeda. Se desplaza activamente buscando insectos en áreas boscosas y bordes de cuerpos de agua.",
+    "behaviorInfo": "Es activa y busca su alimento entre el follaje.",
+    "curiousFact": "Parula viene del latín y significa “ave pequeña”. Es probable que pitiayumi imite su sonido, “pitpit”.",
+    "diet": null,
+    "behavior": null,
+    "commonName": "Reinita Tropical",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 29,
+      "year": 2023,
+      "linkedReference": "https://wikiaves.icesi.edu.co/birds/3579"
+    },
+    "image": "/assets/images/reinita-tropical.jpg",
+    "model": "/assets/models/reinita-tropical.glb",
+    "audio": "/assets/audio/reinita-tropical.mp3",
+    "audioCredit": {
+      "author": "Étienne Leroy",
+      "source": "Xeno-canto"
+    },
+    "videoUrl": "https://www.youtube.com/embed/_lHfkoLMCtE",
+    "videoCredit": {
+      "author": "Canal de YouTube: SouthAmericanBirds",
+      "year": "2016",
+      "source": "YouTube"
+    },
+    "gallery": [
+      {
+        "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/386925251/1200",
+        "description": "Macho",
+        "author": "Holger Teichmann",
+        "source": "Macaulay Library / Cornell Lab of Ornithology"
+      }
+    ],
+    "zone": {
+      "label": "Vegetación junto al lago",
+      "provisional": true,
+      "description": "Zona sugerida e ilustrativa."
+    },
+    "interaction": {
+      "kind": "listen",
+      "title": "Escucha y encuentra",
+      "instruction": "Escucha la grabación y toca el ave virtual. Observa el contraste entre su dorso y su pecho.",
+      "explanation": "Combinar observación y escucha ayuda a conocer el ave."
+    }
+  },
+  {
+    "id": "camptostoma-obsoletum",
+    "slug": "mosquerito-silbon",
+    "name": "Mosquerito Silbón",
+    "scientificName": "Camptostoma obsoletum",
+    "englishName": "Southern Beardless-Tyrannulet",
+    "family": "Tyrannidae",
+    "guidePage": 37,
+    "animated": true,
+    "description": "Nativo de América Central y del Sur, este pequeño pájaro mide alrededor de 10 cm y pesa cerca de 7 g. Su plumaje se compone principalmente de un tono verde olivo complementado con matices grises, blancos y amarillos. Se alimenta principalmente de invertebrados y complementa su dieta con frutos, especialmente bayas. Es conocido precisamente por su canto agudo y penetrante, que suele delatar su presencia entre el follaje.",
+    "trait": "Pico corto, cara uniforme y cresta despeinada.",
+    "habitat": "En las zonas de bosque o matorrales densos dentro del campus donde emite sus característicos silbidos.",
+    "behaviorInfo": "Permanece solitario o en parejas. Revolotea de percha en percha.",
+    "curiousFact": "Su nombre significa “pico curvo común”. Viene del griego kamptos (curvado) y stoma (pico), y del latín obsoletus (simple, común).",
+    "diet": null,
+    "behavior": "Se mueve activamente. Sus vocalizaciones varían entre las poblaciones de su amplia distribución.",
+    "commonName": "Mosquerito Silbón",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 37,
+      "year": 2023,
+      "linkedReference": "https://wikiaves.icesi.edu.co/birds/2194"
+    },
+    "image": "/assets/images/mosquerito-silbon.jpg",
+    "model": "/assets/models/mosquerito-silbon.glb",
+    "audio": "/assets/audio/mosquerito-silbon.mp3",
+    "audioCredit": {
+      "author": "Grabador desconocido (aportado por equipo)",
+      "source": "Xeno-canto"
+    },
+    "videoUrl": "https://www.youtube.com/embed/_xLbYOvMmC0",
+    "videoCredit": {
+      "author": "Canal de YouTube: Cornell Lab of Ornithology",
+      "year": "2019",
+      "source": "YouTube"
+    },
+    "gallery": [
+      {
+        "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/633331196/1200",
+        "description": "Individuo adulto",
+        "author": "Jay McGowan",
+        "source": "Macaulay Library / Cornell Lab of Ornithology"
+      }
+    ],
+    "zone": {
+      "label": "Arbustos",
+      "provisional": true,
+      "description": "Zona sugerida e ilustrativa."
+    },
+    "interaction": {
+      "kind": "habitat",
+      "title": "Cada ave, un ambiente",
+      "instruction": "Selecciona el ambiente virtual con arbustos y bosque secundario.",
+      "explanation": "El Mosquerito utiliza distintos ambientes con vegetación y a menudo prefiere el bosque secundario."
+    }
+  },
+  {
+    "id": "colaptes-rubiginosus",
+    "slug": "carpintero-cariblanco",
+    "name": "Carpintero Cariblanco",
+    "scientificName": "Colaptes rubiginosus",
+    "englishName": "Golden-olive Woodpecker",
+    "family": "Picidae",
+    "guidePage": 22,
+    "animated": false,
+    "description": "Es un ave de tamaño mediano con un largo de 23 cm y pesando 68 g nativa a américa del centro y del sur. Son principalmente de color dorado con franjas rojas y una frente y pico de color negro. Estos suelen dormir en agujeros de troncos y buscan alimentos entre la vegetación, especialmente ramas con musgo, buscando su fuente de alimentación primaria, la cual son los insectos, especialmente las hormigas y escarabajos; también consumen frutas, pero en menor medida. Estos suelen construir sus nidos en ramas elevadas entre 1.8 y 18 metros del suelo.",
+    "trait": "Plumaje verdoso y rojo en la nuca en ambos sexos.",
+    "habitat": "En los árboles más altos y maduros que rodean el campus. Habita en los estratos medios a altos de los bosques, moviéndose lentamente sobre los troncos.",
+    "behaviorInfo": "Suele observarse solo, en parejas o en pequeños grupos. Es activo y conspicuo, desplazándose entre árboles mientras busca alimento o excava cavidades para anidar.",
+    "curiousFact": "Ambos sexos tienen rojo en la nuca. Los individuos del noreste de México tienen menos rojo en la cabeza y una voz muy distinta a la del resto de la especie.",
+    "diet": null,
+    "behavior": "Puede moverse lentamente entre los árboles y pasar inadvertido; su llamado ayuda a localizarlo.",
+    "commonName": "Carpintero Cariblanco",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 22,
+      "year": 2023,
+      "linkedReference": "https://wikiaves.icesi.edu.co/birds/2398"
+    },
+    "image": "/assets/images/carpintero-cariblanco.jpg",
+    "model": "/assets/models/carpintero-cariblanco.glb",
+    "audio": "/assets/audio/carpintero-cariblanco.mp3",
+    "audioCredit": {
+      "author": "Jerome Fischer",
+      "source": "Xeno-canto"
+    },
+    "videoUrl": "https://www.youtube.com/embed/T7zC138oVsM",
+    "videoCredit": {
+      "author": "Canal de YouTube: Cornell Lab of Ornithology",
+      "year": "2020",
+      "source": "YouTube"
+    },
+    "zone": {
+      "label": "Árboles",
+      "provisional": true,
+      "description": "Zona sugerida e ilustrativa."
+    },
+    "interaction": {
+      "kind": "hotspots",
+      "title": "Mirada de carpintero",
+      "instruction": "Observa el modelo desde distintos ángulos y selecciona las dos etiquetas para conocer sus rasgos.",
+      "explanation": "La guía destaca el rojo en la nuca de ambos sexos. El modelo permanece estático."
+    }
+  },
+  {
+    "id": "chlorostilbon-melanorhynchus",
+    "slug": "colibri-esmeralda",
+    "name": "Colibrí Esmeralda",
+    "scientificName": "Chlorostilbon melanorhynchus",
+    "englishName": "Western Emerald",
+    "family": "Trochilidae",
+    "guidePage": 18,
+    "animated": true,
+    "alternateNames": [
+      "Esmeralda Occidental"
+    ],
+    "description": "Esta diminuta ave se distingue por su plumaje iridiscente que varía entre el verde esmeralda y el azul metálico, y por su largo pico afilado, ideal para extraer el néctar de las flores. Posee un vuelo sumamente rápido y ágil, capaz de maniobrar al instante, y destaca por ser un ave muy territorial. Su eficiente metabolismo le permite batir las alas a una velocidad impresionante, pudiendo sostenerse en el aire en un punto fijo.",
+    "trait": "Pico corto y recto; macho verde esmeralda y cola azul oscura.",
+    "habitat": "En los senderos peatonales con flores y los alrededores de las zonas boscosas. Se alimenta en niveles inferiores o medios en jardines y bordes de bosque.",
+    "behaviorInfo": "Es solitario.",
+    "curiousFact": "Es migratorio y casi endémico de Colombia.",
+    "diet": null,
+    "behavior": "Suele observarse solo, alimentándose en niveles bajos o medios de jardines y bordes de bosque.",
+    "commonName": "Colibrí Esmeralda",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 18,
+      "year": 2023,
+      "linkedReference": "https://wikiaves.icesi.edu.co/birds/2321"
+    },
+    "image": "/assets/images/colibri-esmeralda.jpg",
+    "model": "/assets/models/colibri-esmeralda.glb",
+    "audio": "/assets/audio/colibri-esmeralda.mp3",
+    "audioCredit": {
+      "author": "Jerome Fischer",
+      "source": "Xeno-canto"
+    },
+    "videoUrl": "https://www.youtube.com/embed/vwbbbkZc8_Q",
+    "videoCredit": {
+      "author": "Propio (Equipo)",
+      "year": "2026",
+      "source": "Propio"
+    },
+    "zone": {
+      "label": "Jardín con flores",
+      "provisional": true,
+      "description": "Zona sugerida e ilustrativa."
+    },
+    "interaction": {
+      "kind": "flower",
+      "title": "Un jardín para observar",
+      "instruction": "Selecciona el jardín con flores para explorar este ambiente y observar al colibrí.",
+      "explanation": "La guía describe al Colibrí Esmeralda en jardines y bordes de bosque."
+    }
+  }
+]

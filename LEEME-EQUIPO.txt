@@ -1,0 +1,105 @@
+AVES UAO — ENTREGA EDITABLE AL EQUIPO
+Versión: 14 de octubre de 2026 · aves-5
+
+EMPIECEN AQUÍ
+Este paquete contiene el proyecto editable, los recursos que usa y los originales
+aportados por el equipo. Extraigan TODO el ZIP antes de abrirlo. No ejecuten la app
+haciendo doble clic en index.html: necesita el servidor de desarrollo.
+
+1. Instalen Node.js 22.12 o posterior (una versión LTS compatible).
+2. Abran una terminal en la carpeta extraída donde está package.json.
+3. Ejecuten, una línea por vez:
+
+   npx --yes pnpm@10 install --frozen-lockfile
+   npx --yes pnpm@10 prepare:runtime
+   npx --yes pnpm@10 dev
+
+4. Abran la dirección Local que imprime la terminal. Déjenla abierta.
+   En Windows, si PowerShell bloquea npx.ps1, usen npx.cmd en lugar de npx.
+   La primera instalación requiere internet. No necesitan Codex ni una cuenta
+   de Cloudflare para editar y probar la vista 3D en el computador.
+
+PARA REVISAR LOS CAMBIOS
+   npx --yes pnpm@10 test
+   npx --yes pnpm@10 build
+   npx --yes pnpm@10 preview --port 4173
+
+build genera dist. preview muestra la última compilación, no los cambios nuevos
+hasta volver a ejecutar build. No editen dist ni public/vendor: son generados.
+
+DÓNDE MODIFICAR CADA COSA
+- src/app.js: pantallas, navegación, colección, reproducción y quiz.
+- src/ui/style.css: colores, tipografía, tamaños y distribución visual.
+- src/data/birds.json: nombres, textos, fotos, audios y enlaces por especie.
+- src/data/quiz.json: preguntas, respuestas y explicaciones del quiz.
+- src/data/scene-layout.json: ubicación orientativa de los pines del campus.
+- src/data/animation-clips.json: clip elegido para cada ave.
+- src/ar/experience.js: modelos, animaciones y escenas 3D/RA.
+- src/ar/runtime.js: cámara y motor de realidad aumentada.
+- src/ar/bird-anchor.js: colocación inicial del ave frente a la cámara.
+- src/ar/canvas-host.js: conserva la cámara dentro del contenedor correcto.
+- src/state/: progreso y puntuación; tests/: pruebas automáticas.
+- public/assets/: recursos activos. Cambiar un original NO cambia la app.
+- recursos-originales/: modelos, audio e identidad originales, conservados
+  para edición y comparación. No son los archivos servidos por la aplicación.
+- referencias/: guía PDF, presentación y propuesta Word del equipo.
+- docs/: decisiones, auditorías, licencias e historial de desarrollo.
+
+ACUERDOS VIGENTES — PREVALECEN SOBRE DOCUMENTOS HISTÓRICOS
+1. Campus en 3D SIN cámara, con cinco pines. Seleccionar un ave permite abrir
+   SOLO esa ave en RA. Volver al campus detiene cámara y audio.
+2. Escuchar el canto descubre su historia. Se quitaron elecciones como
+   «Rama elevada» y «Suelo cerrado». El quiz mantiene sus cinco preguntas.
+3. El ave se coloca automáticamente frente a la cámara cuando hay tracking.
+   Es un punto del espacio, NO se afirma que sea una mesa o superficie detectada.
+   Recolocar la vuelve a situar delante; al perder tracking se espera recuperación.
+4. Cuatro aves tienen clips. Carpintero Cariblanco permanece sin animación.
+5. La ficha contiene foto, canto, información y enlace al video de referencia.
+6. Logo UAO sin añadir «Aves» al lado. Paleta: #8A1C28, #F9F6F0, #FFFFFF,
+   #222222. Se usa Roboto local y Material Symbols con sus licencias.
+7. Los botones propios se llaman uao-icon-button para evitar conflictos con
+   los estilos de XRExtras. Conservar la corrección del contenedor del canvas.
+8. No se toman ni se guardan fotos automáticamente. Las vistas congeladas
+   reportadas se debían a un canvas fuera de su contenedor; se corrigió su limpieza.
+9. Mantener IDs científicos de las especies: el progreso y el quiz los utilizan.
+   No cambiar apariencia ni información biológica sin revisar con el equipo.
+
+ESTADO REAL DE LA ENTREGA
+25 pruebas automáticas aprobadas y compilación correcta. Se verificó en navegador
+el descubrimiento al escuchar, botones 44×44 y ausencia de opciones intermedias.
+El usuario confirmó que la cámara YA se ve en su iPhone 16 Pro. El último ajuste
+para que aparezcan las aves automáticamente aún necesita probarse en ese teléfono.
+No presentar la RA física como terminada o aprobada. No se ha probado Android.
+
+PENDIENTES DEL EQUIPO
+- Probar los cinco modelos en RA: aparición, animación, recolocación, tracking,
+  orientación, rendimiento y regreso al campus sin vistas residuales.
+- Confirmar identidad de Peregrine.glb, asignado provisionalmente a Cernícalo.
+- Revisar apariencia del Colibrí Esmeralda y correspondencia de las grabaciones.
+- Confirmar puntos reales de avistamiento: los pines actuales son orientativos.
+- Completar permisos y atribuciones de medios antes de publicar.
+
+PRUEBA EN IPHONE
+Safari necesita HTTPS confiable para la cámara. localhost/127.0.0.1 en el teléfono
+apunta al propio teléfono, no al computador. El enlace temporal de desarrollo NO
+forma parte estable de esta entrega. Para compartir una prueba, sirvan únicamente
+dist por HTTPS. No expongan esta carpeta completa ni referencias/originales.
+Si usan Cloudflare, configuren UAO_PREVIEW_HOST con el dominio exacto antes de
+iniciar preview; vite.config.js solo permite ese host adicional. No usen comodines.
+
+TRABAJO EN EQUIPO
+Usen una copia o rama por cambio y acuerden quién edita cada archivo. Mantengan
+pnpm-lock.yaml y las versiones de dependencias salvo actualización deliberada.
+Prueben y compilen antes de integrar cambios. Los GLB pueden editarse en Blender;
+conserven materiales, texturas y animaciones y actualicen el catálogo si cambian
+nombres/rutas. Los scripts Python de preparación son auxiliares y pueden requerir
+herramientas/rutas locales adicionales; no hacen falta para iniciar la app.
+
+SOBRE ESTE ZIP
+Incluye originales actuales y recursos web; omite node_modules, dist, public/vendor,
+.git, cachés, temporales y modelos antiguos duplicados de AvesRA. Las dependencias
+y el motor se recuperan mediante la instalación y prepare:runtime.
+La propuesta Word de AvesRA sí está en referencias.
+MANIFIESTO-SHA256.json permite comprobar el inventario y la integridad de archivos.
+Los documentos históricos pueden describir flujos anteriores; usar los acuerdos
+vigentes de este archivo y las últimas entradas de docs/ESTADO-IMPLEMENTACION.md.

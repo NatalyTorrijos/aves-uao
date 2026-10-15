@@ -1,0 +1,1442 @@
+[
+  {
+    "ruta": ".gitignore",
+    "bytes": 390,
+    "sha256": "f925407868dbd2a03047807063080b008d7a3db29c9461ebac76295875b59229"
+  },
+  {
+    "ruta": "ARCHITECTURE.md",
+    "bytes": 2602,
+    "sha256": "48747ba9ac32edb96cfc8b2cf06ffa219b9ac738cbe1a856f1b39da060bd60ef"
+  },
+  {
+    "ruta": "ASSETS.md",
+    "bytes": 1214,
+    "sha256": "8fa476e227b0849fad0bd68cd54b85bf68cc403b4b7f4fefc6b5e51f081ddd94"
+  },
+  {
+    "ruta": "LEEME-EQUIPO.txt",
+    "bytes": 6355,
+    "sha256": "dcaab0e588d70c222e4177f71e4ada6bd736375d5ffcf79647f2a211dc492bcf"
+  },
+  {
+    "ruta": "LICENSES.md",
+    "bytes": 2063,
+    "sha256": "ff3e70cc2864645b7cb8b64ee046a6f5c11041c2ff937acced793f7409cd17bd"
+  },
+  {
+    "ruta": "MODELS.md",
+    "bytes": 1571,
+    "sha256": "4ff681d2e5f78219c8ab633074113edf6a2cc44fb88ea318d7a2a1b40aa42382"
+  },
+  {
+    "ruta": "README.md",
+    "bytes": 3434,
+    "sha256": "2a87e1d98deddb2b25ca96dbc5d48d857ae5bdf348960e47660ff2c11ecf2e4c"
+  },
+  {
+    "ruta": "TESTING.md",
+    "bytes": 7049,
+    "sha256": "3b460d58144ba06d3482e3f00d4ad13bf8c83eccf9130235d4494b5bc975c57a"
+  },
+  {
+    "ruta": "diagnostico.html",
+    "bytes": 2978,
+    "sha256": "51bf0c10f62c7843335f472e6ac640cc5ed7d6f20797c9e9a54561054c3d7c22"
+  },
+  {
+    "ruta": "docs/8TH-WALL-ACTUAL.md",
+    "bytes": 3427,
+    "sha256": "9881f8bd815f7d6e64d255187811fb0a0091d7edd3dff087835bf0586c5a2f84"
+  },
+  {
+    "ruta": "docs/ANIMACION-MESHY-GLB.md",
+    "bytes": 3603,
+    "sha256": "a6f276e62546723115876d645b782adda70c4162d425145675360ad88485de05"
+  },
+  {
+    "ruta": "docs/AUDITORIA-AVESRA.md",
+    "bytes": 10462,
+    "sha256": "90878876bd93ae122212b482a5ea8cfe0370128ed78aeadbad3b48d969dd3df7"
+  },
+  {
+    "ruta": "docs/CONTENIDO-VIGENTE.md",
+    "bytes": 2784,
+    "sha256": "b19383bc34e67dff497f0cf5d9e2d851ab6f57d7441bb78b6c7186329788cdb3"
+  },
+  {
+    "ruta": "docs/CRITERIOS-DISENO.md",
+    "bytes": 5350,
+    "sha256": "0993dd4d2e94a0166e5073c86ff04b31324d922cbe11d8e95e5652a1213c32ed"
+  },
+  {
+    "ruta": "docs/ESTADO-IMPLEMENTACION.md",
+    "bytes": 8235,
+    "sha256": "3992bb0c504b66c8d6f917fde467dd6c56f889709befcc769da08426aba04c73"
+  },
+  {
+    "ruta": "docs/FLUJO-EXPERIENCIA.md",
+    "bytes": 4395,
+    "sha256": "014ae554d9f4f9f91295e5708a1dba3af83378bd1004539d29ba4b515820c00a"
+  },
+  {
+    "ruta": "docs/GUIA-AUDITORIA.md",
+    "bytes": 3821,
+    "sha256": "6ce3d3963e0bb23c557ae7e846d368377d07d4fd5669c39de387f2909c8e235e"
+  },
+  {
+    "ruta": "docs/HITO-0.md",
+    "bytes": 2189,
+    "sha256": "c71a1c2afec95845bd9ade9fbc6cb1f94f2d9ff2762d9fba26e6b287ba5339eb"
+  },
+  {
+    "ruta": "docs/INFORME-INICIAL.md",
+    "bytes": 2667,
+    "sha256": "0cbc1d6410fbe5790616e169ca5dc11ca824969d4165e54fb6da1eb7360d38ab"
+  },
+  {
+    "ruta": "docs/MODELOS-INVESTIGACION.md",
+    "bytes": 8590,
+    "sha256": "53d6048f832ba738bee5f82a50e5c2428a5627733e6bf4914b1f998a4c07796b"
+  },
+  {
+    "ruta": "docs/PITCH-Y-DEMO.md",
+    "bytes": 3580,
+    "sha256": "533c37544fb2bdd01ed5e559fb626b05a64e708beba69cdad56a981a901b2e62"
+  },
+  {
+    "ruta": "docs/PROMPT-MAESTRO-ASTRA.md",
+    "bytes": 29375,
+    "sha256": "0354185643c25d5f00bf555820378677ad91832f48d0f54958060f1e86d78b6d"
+  },
+  {
+    "ruta": "docs/RECURSOS-WEB.md",
+    "bytes": 7886,
+    "sha256": "4d004c34bcd84eb612b69d5959325a30c15e05224c961676b00641144fdf818b"
+  },
+  {
+    "ruta": "docs/REQUISITOS.md",
+    "bytes": 3813,
+    "sha256": "b20764b9b0300cc6fb50133502baf2e61bcf91855660dd0b2f50d96fc970b8e5"
+  },
+  {
+    "ruta": "docs/ROADMAP.md",
+    "bytes": 808,
+    "sha256": "ab0716022a6287961978a0181aa3de07f412032770d51feb757d9e042514b871"
+  },
+  {
+    "ruta": "docs/evidence/campus-sin-camara-2026-10-14.jpg",
+    "bytes": 56328,
+    "sha256": "cd30306a1fada3cfc67b3d0d28b4ecec25e5b7a913073a09a77173fec09d797e"
+  },
+  {
+    "ruta": "docs/evidence/cubo-vista3d-movil.png",
+    "bytes": 22929,
+    "sha256": "a3c81b680745094ce4a898be5e291942934786d98c39b4aa7e623b5610ce7225"
+  },
+  {
+    "ruta": "docs/evidence/descubrimiento-simple-2026-10-14.png",
+    "bytes": 35623,
+    "sha256": "5ef56b45bd4939b9deedb032f2b07c8a574cd8d718b09fb35650387913596a74"
+  },
+  {
+    "ruta": "docs/evidence/inicio-2026-10-14.jpg",
+    "bytes": 185719,
+    "sha256": "5d6970e2aa04f82c0ddbc07260c5ddbe30f5288cccdf5adacd9d1f323000016f"
+  },
+  {
+    "ruta": "docs/evidence/inicio-movil-2026-10-14.jpg",
+    "bytes": 12323,
+    "sha256": "dfc94072be149bc6702217746e87f3dd40da39c48024224b0572363d48eefae5"
+  },
+  {
+    "ruta": "docs/evidence/quiz-mobile-2026-10-14.jpg",
+    "bytes": 36468,
+    "sha256": "799fc6e776bd39ff148ee8a23ea11b75307b5f5e2cab180806ceea49cb13c41d"
+  },
+  {
+    "ruta": "docs/licenses/8thwall-engine.txt",
+    "bytes": 16010,
+    "sha256": "a2b3be43396a2554a4ab5fefd85086e593e5103f6b1160df4bb3ebb49b033750"
+  },
+  {
+    "ruta": "docs/licenses/landing-page.txt",
+    "bytes": 1061,
+    "sha256": "16ad3f4b3959af130db6b1cf71721913445e3ea8ed68c4915357d0731077be33"
+  },
+  {
+    "ruta": "docs/licenses/three.txt",
+    "bytes": 1081,
+    "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+  },
+  {
+    "ruta": "docs/licenses/vite.txt",
+    "bytes": 108487,
+    "sha256": "68b6ed369f7d3ff36edcec5fcc652980765dc4b2476354169bfa3d91d82c879b"
+  },
+  {
+    "ruta": "docs/licenses/xrextras.txt",
+    "bytes": 1069,
+    "sha256": "0a320756838ccfc28f5652e81e9d20dec1a23428c1841d9d378af5f44c7b5cde"
+  },
+  {
+    "ruta": "docs/sources/guia-extracto.json",
+    "bytes": 48449,
+    "sha256": "c055a1a80f5554e088887d36362093b77de4862b3d9c3827a9ceb68aeebc4256"
+  },
+  {
+    "ruta": "docs/sources/parcial-extracto.json",
+    "bytes": 2601,
+    "sha256": "e17da6f3a1ac977bd7cba0abefe8aacda148aba70bde4677b8cff0720c8032da"
+  },
+  {
+    "ruta": "index.html",
+    "bytes": 3244,
+    "sha256": "01a7f5a15f7061fac4b848fb7886f7b0d3708b2f1d3e6db17dbf5b0f3b92b457"
+  },
+  {
+    "ruta": "package.json",
+    "bytes": 589,
+    "sha256": "27eeb5b42fc3c3498dbcd40174b63a76fda3bc1ff943bdaa9268315cd9022715"
+  },
+  {
+    "ruta": "pnpm-lock.yaml",
+    "bytes": 17014,
+    "sha256": "28bd7dbdeec27279119bb1c335d7c3463f8a5c4ffb8aebd9e4566c3aabbb205f"
+  },
+  {
+    "ruta": "public/assets/asset-manifest.json",
+    "bytes": 48094,
+    "sha256": "a53f295ff436d0090d1879001f3fe47d7e0640e6efa160ad9ae8f10889af80d5"
+  },
+  {
+    "ruta": "public/assets/audio/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "ruta": "public/assets/audio/carpintero-cariblanco.mp3",
+    "bytes": 243996,
+    "sha256": "6da164d465584c6e6c46d5afae2864f4d8e1865653c0e1b88ad222550e4eb72f"
+  },
+  {
+    "ruta": "public/assets/audio/cernicalo-americano.mp3",
+    "bytes": 2468781,
+    "sha256": "45d13281062ac89054d5768ce65e37d07754b8d4ea6c2b90fd165242113519c1"
+  },
+  {
+    "ruta": "public/assets/audio/colibri-esmeralda.mp3",
+    "bytes": 260734,
+    "sha256": "fa7aba380b02c1752fedf12d55987efc7f62a277f5a499aaa6a8a0900a308810"
+  },
+  {
+    "ruta": "public/assets/audio/mosquerito-silbon.mp3",
+    "bytes": 700961,
+    "sha256": "deb9ac9f932a8fb0a76f079eee69ac1bbba882122591461e5930efc13f1f14ab"
+  },
+  {
+    "ruta": "public/assets/audio/reinita-tropical.mp3",
+    "bytes": 272989,
+    "sha256": "291b353c92cfad07563128855879bbbacb421daf0e5bff3b8edb998ab568c007"
+  },
+  {
+    "ruta": "public/assets/brand/uao.jpeg",
+    "bytes": 23308,
+    "sha256": "c24f885802e703babebee23d514576ca22ecc8c6c24885deb40828a0ccd979e5"
+  },
+  {
+    "ruta": "public/assets/fonts/OFL.txt",
+    "bytes": 4487,
+    "sha256": "7d96701533d059cfd4191a85ecfd159e262527abd737eae6d9fb533844c70410"
+  },
+  {
+    "ruta": "public/assets/fonts/Roboto.ttf",
+    "bytes": 487768,
+    "sha256": "0fe599aba604c33d7ac9bb5f642dd15198bf7fbf037b0bbb78b4dcb89d340fc5"
+  },
+  {
+    "ruta": "public/assets/fonts/material-symbols-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+  },
+  {
+    "ruta": "public/assets/fonts/material-symbols.woff2",
+    "bytes": 4736,
+    "sha256": "1ae8cb239bc0a8c4a9a5a106acff9193ef5ebe5042fc25a4161d4f124aa12f5d"
+  },
+  {
+    "ruta": "public/assets/images/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "ruta": "public/assets/images/campus-hero.png",
+    "bytes": 457208,
+    "sha256": "835be3f3d90e51c11dd5afc553faee5d8c3bd2cc26a81061c031a5c49bf065b9"
+  },
+  {
+    "ruta": "public/assets/images/campus.png",
+    "bytes": 328095,
+    "sha256": "d46432349a3b8f7774d76f751a2b68a619356520e41f30fe3b5ee07f0c35c19b"
+  },
+  {
+    "ruta": "public/assets/images/carpintero-cariblanco.jpg",
+    "bytes": 31776,
+    "sha256": "99edf44bb4f1da5fe86644f628aacafd91a67f66fb091eea1726981046aff16f"
+  },
+  {
+    "ruta": "public/assets/images/cernicalo-americano.jpg",
+    "bytes": 31158,
+    "sha256": "f48e9272432138a0270dd03ea53f3aa60e42d763d1e30592df35e0a354ef43f0"
+  },
+  {
+    "ruta": "public/assets/images/colibri-esmeralda.jpg",
+    "bytes": 71575,
+    "sha256": "ad198d4ab036aa4d62d905bc587c6d1ab467304e6ab510ba1b42856c5256bd7c"
+  },
+  {
+    "ruta": "public/assets/images/mosquerito-silbon.jpg",
+    "bytes": 23672,
+    "sha256": "3f79f543db25e11e0143005f4d4d3ae3abe25c30a51173ecc14ab9b9fe0d1563"
+  },
+  {
+    "ruta": "public/assets/images/reinita-hero.png",
+    "bytes": 319902,
+    "sha256": "244cf3055e338b5632f60399da538e4d453605bc518bca67e0928bd57455b155"
+  },
+  {
+    "ruta": "public/assets/images/reinita-modelo.png",
+    "bytes": 306593,
+    "sha256": "96dea084c2420de3490704ba345f258d0bed2423d3df07de3adf512249cfc642"
+  },
+  {
+    "ruta": "public/assets/images/reinita-tropical.jpg",
+    "bytes": 31571,
+    "sha256": "597fe9f76079b2afd2cb08a15518514ad53d206502e2aae3d1faa367f7d983ca"
+  },
+  {
+    "ruta": "public/assets/models/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "ruta": "public/assets/models/campus.glb",
+    "bytes": 33649396,
+    "sha256": "1b265a260641fe962e49f527c89fb212d5d9e682633ea7f4dc60b5dc6f3befb9"
+  },
+  {
+    "ruta": "public/assets/models/carpintero-cariblanco.glb",
+    "bytes": 17556924,
+    "sha256": "1d174fbd6e19d0882657b30d98856ea2a433b057499b3dcce201c18ce99e8348"
+  },
+  {
+    "ruta": "public/assets/models/cernicalo-americano.glb",
+    "bytes": 9676516,
+    "sha256": "79c4be5f9525037305822290129337f8bdcaa3a1b242387095a2161fc1559b30"
+  },
+  {
+    "ruta": "public/assets/models/colibri-esmeralda.glb",
+    "bytes": 10563360,
+    "sha256": "ca1665c63b44d148855a152660fd4b3f13759a08caf7b5a6feac9bceab81a2c9"
+  },
+  {
+    "ruta": "public/assets/models/mosquerito-silbon.glb",
+    "bytes": 13656368,
+    "sha256": "8dc9d1325381631898fdeab3344546afa96565abf874409b574afe92d2d68ad1"
+  },
+  {
+    "ruta": "public/assets/models/reinita-tropical.glb",
+    "bytes": 11022452,
+    "sha256": "aa65131bcaee6392b6eee56cec7699b4dcf9e9bb449ed163cdcfb85025c54a24"
+  },
+  {
+    "ruta": "public/licenses/8thwall-engine.txt",
+    "bytes": 16010,
+    "sha256": "a2b3be43396a2554a4ab5fefd85086e593e5103f6b1160df4bb3ebb49b033750"
+  },
+  {
+    "ruta": "public/licenses/landing-page.txt",
+    "bytes": 1061,
+    "sha256": "16ad3f4b3959af130db6b1cf71721913445e3ea8ed68c4915357d0731077be33"
+  },
+  {
+    "ruta": "public/licenses/three.txt",
+    "bytes": 1081,
+    "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+  },
+  {
+    "ruta": "public/licenses/vite.txt",
+    "bytes": 108487,
+    "sha256": "68b6ed369f7d3ff36edcec5fcc652980765dc4b2476354169bfa3d91d82c879b"
+  },
+  {
+    "ruta": "public/licenses/xrextras.txt",
+    "bytes": 1069,
+    "sha256": "0a320756838ccfc28f5652e81e9d20dec1a23428c1841d9d378af5f44c7b5cde"
+  },
+  {
+    "ruta": "recursos-originales/audios/2026-10-14/Carpintero Cariblanco.mp3",
+    "bytes": 243996,
+    "sha256": "6da164d465584c6e6c46d5afae2864f4d8e1865653c0e1b88ad222550e4eb72f"
+  },
+  {
+    "ruta": "recursos-originales/audios/2026-10-14/Colibrí Esmeralda.mp3",
+    "bytes": 260734,
+    "sha256": "fa7aba380b02c1752fedf12d55987efc7f62a277f5a499aaa6a8a0900a308810"
+  },
+  {
+    "ruta": "recursos-originales/audios/2026-10-14/LEEME.md",
+    "bytes": 2975,
+    "sha256": "79e71093e18998ad7b6a5d3497ad4e2f2895b8b7ae83a587fb95e9aaa657d79b"
+  },
+  {
+    "ruta": "recursos-originales/audios/2026-10-14/Mosquerito Silbón.wav",
+    "bytes": 7715460,
+    "sha256": "54c8e72f5b03c0f5512267a673894f5d31df5f257cf6df952bb498475a86ea9b"
+  },
+  {
+    "ruta": "recursos-originales/audios/2026-10-14/Peregrine.wav",
+    "bytes": 22210884,
+    "sha256": "354a8dbe9000b1c62e3e59f2754a2c309bddd41b4027cbc2c2600640c6edfe03"
+  },
+  {
+    "ruta": "recursos-originales/audios/2026-10-14/Reinita Tropical.mp3",
+    "bytes": 272989,
+    "sha256": "291b353c92cfad07563128855879bbbacb421daf0e5bff3b8edb998ab568c007"
+  },
+  {
+    "ruta": "recursos-originales/audios/2026-10-14/revision-tecnica.json",
+    "bytes": 5343,
+    "sha256": "c646f38656201b040ae462b344770666b1b9dfeecbb9788e6f6fa302944d5c8b"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/LEEME.md",
+    "bytes": 1793,
+    "sha256": "ea16940220103d47c2d155c4d68d356633103775837c9ed99379861a478384bc"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/inventario.json",
+    "bytes": 41883,
+    "sha256": "97263f04707f777896049278ab1110610009ec4b4564962850c9717c8fc02f6c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/logos/uao-horizontal.jpeg",
+    "bytes": 66371,
+    "sha256": "e49ecbe25d8b465688f9eed710ffc9714fb9d2a670054ffb91ec9f96994d8874"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/logos/uao-simbolo.jpeg",
+    "bytes": 23308,
+    "sha256": "c24f885802e703babebee23d514576ca22ecc8c6c24885deb40828a0ccd979e5"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/logos/uao-vertical.jpeg",
+    "bytes": 136200,
+    "sha256": "7475df2db094e41cea831f4186304baff5672d04d10957a9ff9b67c7c96400c9"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter-Italic-VariableFont_opsz,wght.ttf",
+    "bytes": 904532,
+    "sha256": "6136f73372fedc37b80fd1a8ec3e21734073ff17376f3672718f186779672e7a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter-VariableFont_opsz,wght.ttf",
+    "bytes": 874708,
+    "sha256": "0be2399ea925f1f83ff974764761da9860ec50742ed29a5d4c1ffd0c5c7ac3a8"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-Black.ttf",
+    "bytes": 344820,
+    "sha256": "f04a43cde09da7a0ec01526347dac368980098410321ab8edc9e5c61b9d1c45f"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-BlackItalic.ttf",
+    "bytes": 348712,
+    "sha256": "38f0614f651074578af431531c2f081c7a9386fc74d68c695f305ba47904220f"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-Bold.ttf",
+    "bytes": 344152,
+    "sha256": "30a5c45ec23a594af2effe8d3b589ad22c2dede27441050a1604d00ff82fd0dc"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-BoldItalic.ttf",
+    "bytes": 348184,
+    "sha256": "faef7d798934e94c9d6b0871c54900b270e3d1930c0b096ab690d974dfef806c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-ExtraBold.ttf",
+    "bytes": 345008,
+    "sha256": "99fa7026168b7cd8077c99a365eeb0a57d736296afc866d033039817aa787fbd"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-ExtraBoldItalic.ttf",
+    "bytes": 349064,
+    "sha256": "b8e2b85755c8877bc6e4e540b22b24cc8b9892d69d122c674e4eab584f957f6a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-ExtraLight.ttf",
+    "bytes": 343532,
+    "sha256": "8410d5b8b691adc1df06fc946c11efc85963a7e4ac6a35acbb1e392a997cc730"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-ExtraLightItalic.ttf",
+    "bytes": 347452,
+    "sha256": "3cd9e347924944acaf5aa8958b59c0ef22420ac973c94ef44d10b0d58fae3d55"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-Italic.ttf",
+    "bytes": 346480,
+    "sha256": "1fe26d47c840ef8767635967acaa50ee43a57794fa00a03bf042ee4aab2792c4"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-Light.ttf",
+    "bytes": 343704,
+    "sha256": "f0e82b52327efcb68e1b181019ad81d6773bc5ee2addb0b3588d5712740054cd"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-LightItalic.ttf",
+    "bytes": 347316,
+    "sha256": "8fd3f38ea3d248fb65d99db13a88abd8feb2deca519ef454e5ef8db3e79e29e4"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-Medium.ttf",
+    "bytes": 343200,
+    "sha256": "7c7206c451a89a8fa8f38f3c217f67e60b830db9e21645e36155cc62cd1f9903"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-MediumItalic.ttf",
+    "bytes": 346884,
+    "sha256": "9b9858739c528923132c6cfdba8eb4836d44b4fae2bec190fac3736ba0957465"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-Regular.ttf",
+    "bytes": 342680,
+    "sha256": "3e5f90a0138b38de4cf4d779ad78391974ea1df776b9164842bdcbb60ce383c5"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-SemiBold.ttf",
+    "bytes": 343828,
+    "sha256": "a8b276e25bb13dfa39cface35cc92aff9a7d5f1b96143f0df8c66351ccfed2a4"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-SemiBoldItalic.ttf",
+    "bytes": 347760,
+    "sha256": "634c101488742afc966033519a7159566624c64e7a27870f9631422b542cba92"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-Thin.ttf",
+    "bytes": 343088,
+    "sha256": "49af22a61adc89b3cba20525fd0a99d8bb39d111e6ccc73b1ab612810b754828"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_18pt-ThinItalic.ttf",
+    "bytes": 346916,
+    "sha256": "07a97acc1e71a3bf9da9440d5137d2f765d54fcf14f35f9fa26bcd9fe37b3a9f"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-Black.ttf",
+    "bytes": 344764,
+    "sha256": "532bb29b05672483bd431caf23173dcdff15fb15460597aa344b6467d9b01721"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-BlackItalic.ttf",
+    "bytes": 348612,
+    "sha256": "ea7c520b50dc554885abc5a7ecebc05d03dc8ae2abcbbad0822929cfcc74c3c9"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-Bold.ttf",
+    "bytes": 344032,
+    "sha256": "9a2a0b55e203727936212904dedea502e678ba0d6c27851cab1f5eec3d23ef98"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-BoldItalic.ttf",
+    "bytes": 347948,
+    "sha256": "69a404875f7b5b512ec4b28ae84d96d34c2d223060463a906c1334f8460d6482"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-ExtraBold.ttf",
+    "bytes": 344800,
+    "sha256": "a39a597b8e9f869916603b935173e0b444298e012b08a5ed6ab9bbc4f4572212"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-ExtraBoldItalic.ttf",
+    "bytes": 348896,
+    "sha256": "aeb6b8df30067fcd65af73504e3b24ef7c8871bdaa3d8eec15d8460ff7e16365"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-ExtraLight.ttf",
+    "bytes": 343516,
+    "sha256": "777553c7d0af20b4efb9d765093738c598fabb57f01be8f10294a15864a528af"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-ExtraLightItalic.ttf",
+    "bytes": 347352,
+    "sha256": "536d73f1bd2eb052dc5b8ce2fefc95c8b95654067a9f4e09dd21b910fa8f7503"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-Italic.ttf",
+    "bytes": 346580,
+    "sha256": "ac395f7b58c68d2de44cd8e24ced00cf4ec6d4909230a2715751060f43537f06"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-Light.ttf",
+    "bytes": 343440,
+    "sha256": "4af699ea5add0ac0bdefa3a43b0df698e2c0055a445a1c29267525d8eb7862b7"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-LightItalic.ttf",
+    "bytes": 347300,
+    "sha256": "7b26e96fd693cac9aca570ca6b0ece9977f4ddc360fcf8f223872232f2659389"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-Medium.ttf",
+    "bytes": 342936,
+    "sha256": "fa6b009d7b921ccd070b8d039da23b5663e1a87600a179c0512c347565998ac5"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-MediumItalic.ttf",
+    "bytes": 347000,
+    "sha256": "13522fa9e5a7a213556a5443a95c9446898abe4acf1faf1f5a36e99cc0bd832a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-Regular.ttf",
+    "bytes": 342732,
+    "sha256": "d2a4911506ea4e124a47ca044e5e79f671ddf8f1a55f1ab9a56c58d088124b63"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-SemiBold.ttf",
+    "bytes": 343640,
+    "sha256": "10238d4c2f85914e3899177426840bde80b078a612903066cf5c9afd17dbf023"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-SemiBoldItalic.ttf",
+    "bytes": 347616,
+    "sha256": "f9feb54d251f4b7355713b76e1471ac0fcba955effb77600172920ff4645d4f8"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-Thin.ttf",
+    "bytes": 342944,
+    "sha256": "5e95f88c9b42b19dee900a8baaba9e4cba90de7aaa4f5c31f6493d70754fd02f"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_24pt-ThinItalic.ttf",
+    "bytes": 346976,
+    "sha256": "a474aed27868124ed81a4a6cf0212b36498457e6d0e3baee5b9b9467ed1e63f0"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-Black.ttf",
+    "bytes": 344676,
+    "sha256": "6851375f42bc73da34cbeed07fc5f07dfcfbe7a47c1923c0f9d6d21d07cb3793"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-BlackItalic.ttf",
+    "bytes": 348608,
+    "sha256": "61ac30c6d5760473d9f32aa87dc593393315214ffa985070dd2a547dd8f25c8d"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-Bold.ttf",
+    "bytes": 343972,
+    "sha256": "ceec73bdfc78d352bcc222b9ac28e752a20b4a339daefc69bc67f49380425c0c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-BoldItalic.ttf",
+    "bytes": 348088,
+    "sha256": "4860316543350903cafa53b3ff6a3f7014d1d718c815602e5474b05b9c938ef1"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-ExtraBold.ttf",
+    "bytes": 344692,
+    "sha256": "e6242112f3598ff79b69030890e796bd39e31e2d5c386ae5466dc0f81f21e22e"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-ExtraBoldItalic.ttf",
+    "bytes": 348944,
+    "sha256": "0e496ce18ab30d1fd74104ea6bbb2ed5ca1e27293aa5d559620cbf6b6888ebb8"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-ExtraLight.ttf",
+    "bytes": 343184,
+    "sha256": "ada5c3d41a048ade347dd074da81093943e4fc06e8430baf9c4ef41f3625db4a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-ExtraLightItalic.ttf",
+    "bytes": 347268,
+    "sha256": "125e44fb017691c676c75e4190685a6e1720fadf03604adf14621eaad4a7535d"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-Italic.ttf",
+    "bytes": 346528,
+    "sha256": "d60df0083afeb9970b7d619e7c96831b73c22dd39bfaa14821cf921163306d0f"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-Light.ttf",
+    "bytes": 343092,
+    "sha256": "4c260d198b8782036bc0a332dbb59cb878fae386fbb173562e44997cb9d3865c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-LightItalic.ttf",
+    "bytes": 347092,
+    "sha256": "90196c7bfb5f9668d195256bb008ac689d861d6bfdba2b0f820874ff619cc61b"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-Medium.ttf",
+    "bytes": 342808,
+    "sha256": "4367e46e4e05e8bcd1b5a8f94e6e4899d1923219102fd99cf4094ae21fac5a25"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-MediumItalic.ttf",
+    "bytes": 346900,
+    "sha256": "4f83cfe08ee1e7c572d399b9bfa8b1b6cf4cda299db315b5dc474a31451d64f8"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-Regular.ttf",
+    "bytes": 342484,
+    "sha256": "3081ede8389f3516e8616d2b2fe60cac639b341640dff0250d253d3aac5e613f"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-SemiBold.ttf",
+    "bytes": 343244,
+    "sha256": "cedce7a9bfdea18077a12cda546db5683e7763b7a3a876b75a52c7eef11cecb2"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-SemiBoldItalic.ttf",
+    "bytes": 347380,
+    "sha256": "4d5b82d5da276c19a17c7f8eae13f9abb7e119756ef5d2768a6db1a1e1bc22d6"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-Thin.ttf",
+    "bytes": 342904,
+    "sha256": "bf4c2cbfab6095a89bffe3d1496388f895864097d088c922afc613b458215e78"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/Inter_28pt-ThinItalic.ttf",
+    "bytes": 346980,
+    "sha256": "3de18d90a10c6bda8ce01f2779d74ff37f966024174a276b6df61d533ecb4030"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/OFL.txt",
+    "bytes": 4470,
+    "sha256": "3c8d13d97ea5eb62868833a377034c6be6a9833e768d32abec2a767a8101e4bc"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Inter/README.txt",
+    "bytes": 4230,
+    "sha256": "7516d3a826027bd9ff22c6d995bca864e66dd924bae2eed4cf1a8df6cd9e9e5a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OFL.txt",
+    "bytes": 4484,
+    "sha256": "6c632858146b13645c7730e2b98881f00f4e545949d2c0368a65b071ed8301da"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-Bold.ttf",
+    "bytes": 130860,
+    "sha256": "5f4c6f0c6beae94863a099a7a538059c480f91587f1abffc06552e9fa3a44f40"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-BoldItalic.ttf",
+    "bytes": 136360,
+    "sha256": "c7e0a936ff0f08b6726cf205126a5e6dd6ae1340111325f7e86cbba1408e82d7"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-ExtraBold.ttf",
+    "bytes": 131244,
+    "sha256": "1c5a37e45cdeb42a94314e7beb51d8027edca0bc7e2b42f218e34475df974aa3"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-ExtraBoldItalic.ttf",
+    "bytes": 136928,
+    "sha256": "5beb62f58f3498e15301f0dc9258b551bf7c7f1011c63e8b927c1dd97b2669d4"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-Italic-VariableFont_wdth,wght.ttf",
+    "bytes": 580280,
+    "sha256": "71288a62a68a0e40322f1e625225bd221f82c8d341cda3c053828f10f6fb8d12"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-Italic.ttf",
+    "bytes": 136604,
+    "sha256": "dd74eb2d271b57ef5c382a97403818715bfb6b1d53d7fa6da9c88336763651fb"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-Light.ttf",
+    "bytes": 130804,
+    "sha256": "0ceb0091b5426ef576c9e8f9f17fb010c3bddbb405250742887eeba92b382b4d"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-LightItalic.ttf",
+    "bytes": 136896,
+    "sha256": "a76fba7c9af22f79197d92933a062ce686ef691d26b075880041a69c8c510268"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-Medium.ttf",
+    "bytes": 130976,
+    "sha256": "23e3e3945f88eaeb3152fc70eab7377e0c76f3a3c28f2f24b041f87fb8b001a3"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-MediumItalic.ttf",
+    "bytes": 136796,
+    "sha256": "4033e6aa44ec9e7555707b1db0fda677aaef877522e3888a9d4b998e1827172a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-Regular.ttf",
+    "bytes": 130832,
+    "sha256": "33e93bec67d91c396876db50694213802a39e43a911bb5c22322f0dbdf4d5e43"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-SemiBold.ttf",
+    "bytes": 130760,
+    "sha256": "126a7c4db92d11e83360fb8cb120b880a5a619845fd545a7556d41e96d1aa9e7"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-SemiBoldItalic.ttf",
+    "bytes": 136724,
+    "sha256": "c8835e06674734947f3efed7550096ed07f84789d97e5c20db86b761de81c262"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans-VariableFont_wdth,wght.ttf",
+    "bytes": 529700,
+    "sha256": "177359dff5017066301cff7264b86851b60b68628636255015d1db37b54b344d"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-Bold.ttf",
+    "bytes": 130372,
+    "sha256": "b58e4c213568b87108c5fbcf099c97be96e25ae08863bf4e8d0cb32c93a390a1"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-BoldItalic.ttf",
+    "bytes": 136240,
+    "sha256": "c0f238fd2e1b49b5869310d8abd13fd69aa6ed6167c32972ce496d7f88119c2c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-ExtraBold.ttf",
+    "bytes": 130812,
+    "sha256": "fd0c313e2a8fcc49bd6cc46eb32c69bf3eba4cb2a0fb2869b26060963431351f"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-ExtraBoldItalic.ttf",
+    "bytes": 136652,
+    "sha256": "5be7dd49675ce9b79fac84d96bdb488892a2c4ba9979c6e5f92f9ce467efd9b9"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-Italic.ttf",
+    "bytes": 136588,
+    "sha256": "5243e1355c5e00cc19be038996d614734722664e85d901fdd5ca3f125d16e568"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-Light.ttf",
+    "bytes": 130472,
+    "sha256": "020e7310919014e86b09ffb4bedcb5d985e492c254b4fd7f4a88d23bc5bdc169"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-LightItalic.ttf",
+    "bytes": 136760,
+    "sha256": "9cf3e977f03c991ed44f2e69ca420ed9bba98e1f96794ed8e81ad45fa8f6ef26"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-Medium.ttf",
+    "bytes": 130520,
+    "sha256": "08e0be28a678bce5d8258c979834cbc485d74fd2c76ee9b6df25baa6d0782def"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-MediumItalic.ttf",
+    "bytes": 136700,
+    "sha256": "dd1ffcbfe3027a9eb40d8263beae8ae744ea177daa6604cf1e069c8482debdef"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-Regular.ttf",
+    "bytes": 130492,
+    "sha256": "81b94e99cbddf3151bee0fe0f0653847e3881669537fa3bf6213c65711f5d707"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-SemiBold.ttf",
+    "bytes": 130524,
+    "sha256": "dbe263d9f5a6b8198f0a63d13183595cb3e786a6c107d6b8702791b314b13216"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_Condensed-SemiBoldItalic.ttf",
+    "bytes": 136792,
+    "sha256": "f5339a19bb6424f4e256642108689947603661e1fef7408c91075f31d811b41b"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-Bold.ttf",
+    "bytes": 131168,
+    "sha256": "55a826b4bcaa05641eb89f6367b4d37fadb5079a19cd5bd34c14983dbb477ae7"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-BoldItalic.ttf",
+    "bytes": 137104,
+    "sha256": "eab41591c7a3d6a85bd4e144855a237058c67f58b03a0eff63702477387cd3ce"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-ExtraBold.ttf",
+    "bytes": 131744,
+    "sha256": "d5ae6a29901d2f10501ecaa288a755605ec0387cb70ad2cfe696e138e2361dcd"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-ExtraBoldItalic.ttf",
+    "bytes": 137584,
+    "sha256": "90922368baa78e605df9cfea780b1711992c96c8c720baa0ebe76f6a42416a73"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-Italic.ttf",
+    "bytes": 137000,
+    "sha256": "332acbca4dc973ae482fedcbfc6b35d417188c52402bab2b3d0d7d5be2c08837"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-Light.ttf",
+    "bytes": 131128,
+    "sha256": "29056ac1a5eae09d30346400f416477afbfeb614c2527b2fb4d31134efe65efb"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-LightItalic.ttf",
+    "bytes": 137220,
+    "sha256": "a0a3a1bd985137661a768c06034490e2d3135370e3652af508bf6fc243ab967c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-Medium.ttf",
+    "bytes": 130976,
+    "sha256": "544040933443054cce58fbb7d81e05f5b892164811f9aaa6c387703f7bbf8c48"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-MediumItalic.ttf",
+    "bytes": 137068,
+    "sha256": "86d3c34823d61d55669b8034cd6fab7941b385802372adaaf0c3d62a5933ad25"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-Regular.ttf",
+    "bytes": 130848,
+    "sha256": "75ee06b8bfb35cf5589cb1e8919afeaacf8af2423bceafe49f87845449691ac3"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-SemiBold.ttf",
+    "bytes": 130856,
+    "sha256": "d4baec1280b3c9be62f48abfd8acfd09a04958d663d316d16c4e567a32440828"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/OpenSans_SemiCondensed-SemiBoldItalic.ttf",
+    "bytes": 137132,
+    "sha256": "fbf07f44823f3ba3ea0fc5d314cf8fc8bf1d64dc2d42b4e43d3d48a4c0bfda96"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/OpenSans/README.txt",
+    "bytes": 3898,
+    "sha256": "26da76ee9bade00d83f1d5c582e90b62c4689c6cdc1d4cea22b79df18d401c2e"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/OFL.txt",
+    "bytes": 4487,
+    "sha256": "7d96701533d059cfd4191a85ecfd159e262527abd737eae6d9fb533844c70410"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/README.txt",
+    "bytes": 4509,
+    "sha256": "5f538b231eb736ee51a53f9ce0d7112dae49cf3b6dc1006e23fa99bea228f9b7"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Black.ttf",
+    "bytes": 160316,
+    "sha256": "27bccdc7ead7eb5754e950c4c4eaa9a35f2b4ae1a29164921017285bebb82a02"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-BlackItalic.ttf",
+    "bytes": 166780,
+    "sha256": "c3e3432dd52e1b566c410408f7625e14b7702f5b9e05cc478936297ca488fe0e"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Bold.ttf",
+    "bytes": 159900,
+    "sha256": "4aaf8c5b661a386998c2e70cf2b87e2440f5404e0b8fd81164f0413fb3435ec6"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-BoldItalic.ttf",
+    "bytes": 166256,
+    "sha256": "c6a5e7c224d3bf6698e5d3c124f0f0220cad20d5d413920447a96f033a0292ee"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-ExtraBold.ttf",
+    "bytes": 160012,
+    "sha256": "43d5ce98c58336045220fa1dac2bd22281b1aab3eca66785cb34eb3ad1dfe1a5"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-ExtraBoldItalic.ttf",
+    "bytes": 166428,
+    "sha256": "14cf06159e9f486267d4892fbe38ab0806d596c9a9a3c664c69bf2b863c5c7d8"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-ExtraLight.ttf",
+    "bytes": 159200,
+    "sha256": "f5d01fbfa656ab6f228454253dfcdf057b7e9568b6c2afe82d97e05f3b45e55e"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-ExtraLightItalic.ttf",
+    "bytes": 164780,
+    "sha256": "2391c44c22fbaef26b7a1184da8943a506036b41ed70af79c2036c18fdea1f1c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Italic-VariableFont_wdth,wght.ttf",
+    "bytes": 530052,
+    "sha256": "38e4f7659bb00be86aef1cb1325fce85534ba3f2e73c6ee47ab897ea758b1c2d"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Italic.ttf",
+    "bytes": 165268,
+    "sha256": "6a372c348dc20c246b92d60b9bda3c0a9ffedc129790ed3f31faf89daa99d793"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Light.ttf",
+    "bytes": 159200,
+    "sha256": "cce4405e885544376ce20621001274e2ac9080a171ad4d2e097bf04d790157ea"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-LightItalic.ttf",
+    "bytes": 165052,
+    "sha256": "8711097e1a718e29d5cfde77c529b168fe96a0de38bb3c9d8d484f5bbc36bb01"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Medium.ttf",
+    "bytes": 159296,
+    "sha256": "79343dc641a2e8d48a703a4667b71fc8dc6565cc8ce47dfc34fc52c12aadbf38"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-MediumItalic.ttf",
+    "bytes": 165580,
+    "sha256": "1bdb6f190ea0b5a41f333e276a5fcf26244dbc621a5d2077144dbf5a39f0ef83"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Regular.ttf",
+    "bytes": 159108,
+    "sha256": "15256405ecb0d880678833a582760efad538ab2932318b52c8105b267d159459"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-SemiBold.ttf",
+    "bytes": 159876,
+    "sha256": "32fe2086b0e54eca85a68eb74e3d89bb16a7ffe59085d6dc7d079f5b3c26d6ab"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-SemiBoldItalic.ttf",
+    "bytes": 166148,
+    "sha256": "d39ce04ed4833809795c4d83d8e66e91aaa687db9023b86e80c92e48395cd7d4"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-Thin.ttf",
+    "bytes": 158840,
+    "sha256": "97610d693caecc007e532da2ba4703b693667819badc2e88a724236402094c65"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-ThinItalic.ttf",
+    "bytes": 164132,
+    "sha256": "5b9d03fc55047e379893dfcf3ac85dcfaf39a88e5027f149f4caa39c0773ad81"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto-VariableFont_wdth,wght.ttf",
+    "bytes": 487768,
+    "sha256": "0fe599aba604c33d7ac9bb5f642dd15198bf7fbf037b0bbb78b4dcb89d340fc5"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-Black.ttf",
+    "bytes": 160152,
+    "sha256": "a365617457f4e9800347655478132461565b28c563076f38a6294f6403b1fba9"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-BlackItalic.ttf",
+    "bytes": 166748,
+    "sha256": "47231a1eeba3b87521c989d2954a7afcae8c7e4877b07cde3a9cca9c9f0c25f9"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-Bold.ttf",
+    "bytes": 159656,
+    "sha256": "2523dfdb721c2e0291f92419e30dd2cb0f6105d94d2673b2206b127923fce5ee"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-BoldItalic.ttf",
+    "bytes": 166156,
+    "sha256": "0726699e67ae7222b78247c6c5e1005342c09202665cc6b50d97611735f9666a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-ExtraBold.ttf",
+    "bytes": 159948,
+    "sha256": "c2f36342b898af6174de7b913929f7edbda2f81dc84875719b8a2470c6e0411e"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-ExtraBoldItalic.ttf",
+    "bytes": 166504,
+    "sha256": "2b3477770de269b4d85885592803e1fc7df90950e8fe79c89ae0b18b8c878eb0"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-ExtraLight.ttf",
+    "bytes": 159344,
+    "sha256": "dccacbbdd4c79ec1c83cdae94865d8ec9511417386f944d75ed1df4714f8f248"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-ExtraLightItalic.ttf",
+    "bytes": 165516,
+    "sha256": "8fe97edb70cde4e221608621b0f6f15ca6b6736e12cd51c84aba9689b78f64a3"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-Italic.ttf",
+    "bytes": 165308,
+    "sha256": "85524daa799a9340164c6979949be23def619fb81635b356f74d40a9ca4eca93"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-Light.ttf",
+    "bytes": 159200,
+    "sha256": "bf16dcbfa3ec7435c42caf723f8cdf10ca08f48f0fd43a64c3009fa65791e413"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-LightItalic.ttf",
+    "bytes": 165604,
+    "sha256": "967eae491c81008037f1f073bf65c969ef2d8ff1ffbc58fd412d46dc9cc3a977"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-Medium.ttf",
+    "bytes": 159080,
+    "sha256": "2a3a4ba8f16701b263c79482d8fb440a7e2ae06bb0ec14d3244776fb6acb741e"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-MediumItalic.ttf",
+    "bytes": 165584,
+    "sha256": "c1a9dd1d10cbe4263e67e8cd77a7ecba80798bdfc7cbcde8985f3f3bfa86e4a6"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-Regular.ttf",
+    "bytes": 158972,
+    "sha256": "421572e7beae914b9e400ae1e7f9690a749357a94e1a6c3a3fb1d502c54f0b7d"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-SemiBold.ttf",
+    "bytes": 159600,
+    "sha256": "dd9178d15b5e84f849ed158d336ae7184289488b114b891fb3a83fe11728d6d3"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-SemiBoldItalic.ttf",
+    "bytes": 165788,
+    "sha256": "1aeef4a48867ad807d056dacdc42f96f2dff51683ad6898cbbb0c9225dd0510c"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-Thin.ttf",
+    "bytes": 159400,
+    "sha256": "3888682f3aabd9978c8fcb2bd0094220279df271da22b34b6ca6ac3392a16fa4"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_Condensed-ThinItalic.ttf",
+    "bytes": 165084,
+    "sha256": "1d85eba48a76adfdf81420c1e6b37e0c621868be4a5e04b0e92a1904e1c10d37"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-Black.ttf",
+    "bytes": 160388,
+    "sha256": "2e4fceff03fe0c042f97a23a74c93bed015cfb4fe72477d44503a832f37f2485"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-BlackItalic.ttf",
+    "bytes": 166896,
+    "sha256": "1a082a4c1b72aef3ba636e9fa0df4e8d394bf95266686eeefb4fbe85d7548b05"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-Bold.ttf",
+    "bytes": 159828,
+    "sha256": "9546beff853a4463ca5580b94c08417c4ad93b764178fa693a57dd9724c62cc4"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-BoldItalic.ttf",
+    "bytes": 166256,
+    "sha256": "68e1b1ae4370a3204b6b9ba1def8a06791768319a3674d609bdd025b1d3db78a"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-ExtraBold.ttf",
+    "bytes": 159988,
+    "sha256": "251dbd0da24caedca11f1269c9ed49e9925209024cc25e38841e4571cf0a5872"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-ExtraBoldItalic.ttf",
+    "bytes": 166524,
+    "sha256": "a56b33bc47223a226ca61608cdcd38e047237062d2a7c3bdcf5e3f43f8df0461"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-ExtraLight.ttf",
+    "bytes": 159320,
+    "sha256": "c6dbf0fc3eb9ebd2eb03700ae175bbf6ea65742de2e34e56660e57b33c5f3720"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-ExtraLightItalic.ttf",
+    "bytes": 165260,
+    "sha256": "10139185aa9eaac57ee20e1cfc41dfdd208bf6f04b8f1a71c2e77a8caeaf6ac6"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-Italic.ttf",
+    "bytes": 165332,
+    "sha256": "a0be8c6896ca6a3cc80826ef4f1bb6bf1b76f70ac96e175ba14380e91b1d484d"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-Light.ttf",
+    "bytes": 159264,
+    "sha256": "e66b579b05c6369013e6f1709403517d41b0c54126d1d7bbd000ad64b11602cd"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-LightItalic.ttf",
+    "bytes": 165484,
+    "sha256": "04fcd6882d0b7d3cc5ed3b106d4e32dc787887c869e71dcd12bc8416641e1fa7"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-Medium.ttf",
+    "bytes": 159260,
+    "sha256": "6f0c9010d6aed1510d4b3dc7f4abd4780afccb8fcc6319ccc9b6ba5d412718f7"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-MediumItalic.ttf",
+    "bytes": 165604,
+    "sha256": "63f6d7f696c15f76d074086dd092a8957515bdf403136f856ffdcc7056d947fa"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-Regular.ttf",
+    "bytes": 159088,
+    "sha256": "59a71a1b097ac011567ab34d8ae5e19c5ddd69eeadfdbf29c0a575ceb2cf70f3"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-SemiBold.ttf",
+    "bytes": 159812,
+    "sha256": "d740e8a2271f0a1612772f20d72b158ad4aab0a91527397474a2e102c1e28cfc"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-SemiBoldItalic.ttf",
+    "bytes": 165968,
+    "sha256": "ec1f840143d6faf846e66c6a8b43e00810371af4ed8d544113a18597932d7033"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-Thin.ttf",
+    "bytes": 159328,
+    "sha256": "e9db45e401e693949b1c351cc19a7ad0ffa9053c33a4385f5e24dafbcbada2c9"
+  },
+  {
+    "ruta": "recursos-originales/identidad-uao/tipografias/Roboto/Roboto_SemiCondensed-ThinItalic.ttf",
+    "bytes": 164788,
+    "sha256": "14e03ab3c34d165995df3d55d769f8e2a56ca0c587395a9c86cfe176b38c1052"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/CarpinteroCariblanco.glb",
+    "bytes": 17556924,
+    "sha256": "c9a0843d22e4ac39e4d9a5b63778a331de98f5e81a5b10d78d05946241e86b09"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/ColibriEsmeralda.glb",
+    "bytes": 68487220,
+    "sha256": "a0d35a2f13e68c9392152650866cf72bcc17f9324354749032297127ef9f0887"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/LEEME.md",
+    "bytes": 2143,
+    "sha256": "b7cc412d2e0d34095cbb7cb6e78303acf77bf2b0588c116d5b0e44a67c4e87f6"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/MosquiteroSilbon.glb",
+    "bytes": 119046528,
+    "sha256": "f2d5451d4d439710d132d008e2ff81bc783bc13e9a434b8ee527edcc1764b6ae"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/Peregrine.glb",
+    "bytes": 119047720,
+    "sha256": "02f911230806baa984bf27546863ba29f386b9253e34c0d09dac587a19fa202d"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/ReinitaTropical.glb",
+    "bytes": 119047972,
+    "sha256": "5c18e48557bcce2908be5a329c138962e3e97ae23652f894a8ab9ee960d853c8"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/revision-animaciones.json",
+    "bytes": 28813,
+    "sha256": "ff39507dcddf5ecf3306ffc6c8098bf80f54b4604e9dfd3198c0cfb4fcb0c3fe"
+  },
+  {
+    "ruta": "recursos-originales/modelos-animados/2026-10-14/universidad2.glb",
+    "bytes": 64157868,
+    "sha256": "0b39c6223ad6874530633f5cd21958b7bedc92fa47e4c5d5f740ea9f959700d2"
+  },
+  {
+    "ruta": "referencias/GUIA AVES UAO FINAL.pdf",
+    "bytes": 39166736,
+    "sha256": "65724dbea043e6991dbe2aae30469d064e5cd9fa700bfeed9fe864f4510bf91b"
+  },
+  {
+    "ruta": "referencias/PROPUESTA DE EXPERIENCIA INTERACTIVA.docx",
+    "bytes": 205382,
+    "sha256": "3715940d003315400b5c9f87b4c8ad7eb48db22a1a6e89063042517c5a1c7892"
+  },
+  {
+    "ruta": "referencias/Parcial 2.pptx",
+    "bytes": 718059,
+    "sha256": "d50d2c2082774bd654a13889f38f36786227893b9769a02cd5180fe965a2f6d1"
+  },
+  {
+    "ruta": "scripts/abrir-proyecto.ps1",
+    "bytes": 1302,
+    "sha256": "876fa08dad96294b0f7f2f17c4992b641b22d7a648c6601cd5ee95668ace6db8"
+  },
+  {
+    "ruta": "scripts/clean_glb.py",
+    "bytes": 10501,
+    "sha256": "0e933c58119eb7ecb6e4c29c078a82eb484a4dc9ff5cec22e8292c5c72bda3c9"
+  },
+  {
+    "ruta": "scripts/copy-runtime.mjs",
+    "bytes": 1024,
+    "sha256": "47983b937685cb0903a2141efa14a267643ec1d2f1181bbdbaf45dd495712de5"
+  },
+  {
+    "ruta": "scripts/prepare_web_assets.py",
+    "bytes": 14879,
+    "sha256": "047d5af676d43e9fdd6f85cab2d6ccc5526ab6f0d69e003c950fb2f1a1c92651"
+  },
+  {
+    "ruta": "scripts/render_hero.py",
+    "bytes": 2310,
+    "sha256": "239ee2ba238009ac573ad72ade8e59f784d97213431340f90adc112bcb975d0c"
+  },
+  {
+    "ruta": "scripts/test_clean_glb.py",
+    "bytes": 3753,
+    "sha256": "819b503d25e0dfec48984141335b67b1de11b56a95c83a01095b46fcd200647f"
+  },
+  {
+    "ruta": "scripts/verify_clean_glb.py",
+    "bytes": 3437,
+    "sha256": "390479ff613e9143ce0d93b1be97f2edef0c8534413ff9a4925a08b2455bc4bf"
+  },
+  {
+    "ruta": "src/app.js",
+    "bytes": 28228,
+    "sha256": "ab9eaa149ac817f3f3be8ea05778bb85352c987e8aaf29b0cf6d1861946ee157"
+  },
+  {
+    "ruta": "src/ar/bird-anchor.js",
+    "bytes": 601,
+    "sha256": "e708b25013e2df947266629ec1b4e96f4c774cbe72179d97e6bb6ff8d0969757"
+  },
+  {
+    "ruta": "src/ar/canvas-host.js",
+    "bytes": 396,
+    "sha256": "e5ef18f97e0d0805291bd42bfaf39a03c502a4e1bf97514fc5ebf2562aa16996"
+  },
+  {
+    "ruta": "src/ar/experience.js",
+    "bytes": 13774,
+    "sha256": "729c819db000bcac817004efefbccd9ff133276b3d8938468ccd59b827e99f8f"
+  },
+  {
+    "ruta": "src/ar/placement.js",
+    "bytes": 755,
+    "sha256": "0b81bdfd9cd15f31b2d9b5c8e1fd5ceebdf536dd7407458a8b057152138dfaa3"
+  },
+  {
+    "ruta": "src/ar/preview.js",
+    "bytes": 2550,
+    "sha256": "da7fa4b1b7ba491b5c82cfada97e0cb63ea8208d0aca903846f596f36d3ed909"
+  },
+  {
+    "ruta": "src/ar/runtime.js",
+    "bytes": 5042,
+    "sha256": "2b3c3f30d80f8a40a8327705345b104f8f1890a494fd283974ae914ebf9be923"
+  },
+  {
+    "ruta": "src/ar/session.js",
+    "bytes": 5765,
+    "sha256": "060e63b414cb259e1d070c3bb3f6fb4797ee6793624c445b7ced6e044348df93"
+  },
+  {
+    "ruta": "src/audio.js",
+    "bytes": 878,
+    "sha256": "b6ec8286a2bf037fa46a91d3077dbf2a1130d3f9a941ccb5e93e6ec3dab38010"
+  },
+  {
+    "ruta": "src/data/animation-clips.json",
+    "bytes": 675,
+    "sha256": "e7556a25c3a57c76deff5d8f74709e6e8383fa9462d6fede3feed510baf22e1d"
+  },
+  {
+    "ruta": "src/data/birds.json",
+    "bytes": 22385,
+    "sha256": "2f522b384d584e777049051345c8a1e57e59b9748eefc51911b00430cfda0f0b"
+  },
+  {
+    "ruta": "src/data/quiz.json",
+    "bytes": 4701,
+    "sha256": "1459f6e621596c640964cf0a55c6fee679055af96c942b97b8b61fc215680279"
+  },
+  {
+    "ruta": "src/data/scene-layout.json",
+    "bytes": 588,
+    "sha256": "121d7599af7b5cf714728030275d25afce726ac4bc2e2d4a2b28965f371485f2"
+  },
+  {
+    "ruta": "src/diagnostic.js",
+    "bytes": 1911,
+    "sha256": "ba879da866b3c45ee9025fc1e811e2a161b0faa3202422c75a91bec86bfa27bf"
+  },
+  {
+    "ruta": "src/state/progress.js",
+    "bytes": 2225,
+    "sha256": "72663b492d7f50ed54d35c67875ad3dea9a27aa86e2a9fb4830abcb06826fc18"
+  },
+  {
+    "ruta": "src/state/quiz.js",
+    "bytes": 1977,
+    "sha256": "7163ae7461a10e43497f7076bac41b11013b112e6010259aff636029346e4173"
+  },
+  {
+    "ruta": "src/ui/diagnostic.css",
+    "bytes": 3761,
+    "sha256": "b8c5b83b7a89eb45f968445308d8facb8ee5d3553ff5e7ba472b218c587352e1"
+  },
+  {
+    "ruta": "src/ui/metrics.js",
+    "bytes": 706,
+    "sha256": "7fba4ff893a2fce031586fd432e54a629acf4e2afe4c66b2964bf9b03cb57b83"
+  },
+  {
+    "ruta": "src/ui/style.css",
+    "bytes": 20818,
+    "sha256": "050fe9c14e5f77d2d4572afffe5a0b5dba8fecc93cde299e58be7977af1e4334"
+  },
+  {
+    "ruta": "tests/ar-runtime.test.js",
+    "bytes": 2756,
+    "sha256": "544be078dbdcaafec55f7aafba92c42cc933dbd8c3eb12d7153d7b1c80a1c476"
+  },
+  {
+    "ruta": "tests/bird-anchor.test.js",
+    "bytes": 1196,
+    "sha256": "18c850f37e183516e5fdfaaab51e89f2c9f0e5b8e66d57761a1d49d15d0b2b44"
+  },
+  {
+    "ruta": "tests/canvas-host.test.js",
+    "bytes": 1258,
+    "sha256": "8b2fde7d42bd60a7dffe5536f43f116a49116e9de5fe3cec4e08f063fa9be99b"
+  },
+  {
+    "ruta": "tests/catalog.test.js",
+    "bytes": 2032,
+    "sha256": "a06090aaf9844bd801dd5a4b684caad221092f2d511c55ca8f9c22e5a1c0cf36"
+  },
+  {
+    "ruta": "tests/placement.test.js",
+    "bytes": 847,
+    "sha256": "18d37a864de580c019b600f77759ddda94ef3483c1d3c6864bd4b0065c18ad4b"
+  },
+  {
+    "ruta": "tests/progress.test.js",
+    "bytes": 4164,
+    "sha256": "33c2e069ceed2f0bb58016e44cfd63fceeba6369be7895094cd5edb67705372a"
+  },
+  {
+    "ruta": "tests/quiz.test.js",
+    "bytes": 3460,
+    "sha256": "f2d0151472290ff86aeb8802bc0cfaccbcabe2954a288228e76139398cdae009"
+  },
+  {
+    "ruta": "vite.config.js",
+    "bytes": 284,
+    "sha256": "9df8f0014c45f2cf4ac5f1d4fac3a73199fca3677ed1086ebc2e6627bfb29ad0"
+  }
+]

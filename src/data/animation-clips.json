@@ -1,0 +1,32 @@
+{
+  "falco-sparverius": {
+    "index": 0,
+    "name": "PeregrinePrueba",
+    "behavior": "Movimiento recibido",
+    "visualReview": "pending"
+  },
+  "setophaga-pitiayumi": {
+    "index": 0,
+    "name": "Reinita Tropical",
+    "behavior": "Movimiento recibido",
+    "visualReview": "pending"
+  },
+  "camptostoma-obsoletum": {
+    "index": 0,
+    "name": "Mosquitero Silbon",
+    "behavior": "Movimiento recibido",
+    "visualReview": "pending"
+  },
+  "chlorostilbon-melanorhynchus": {
+    "index": 0,
+    "name": "Colibri esmeralda",
+    "behavior": "Movimiento recibido",
+    "visualReview": "pending"
+  },
+  "colaptes-rubiginosus": {
+    "index": null,
+    "name": null,
+    "behavior": "Modelo estático por decisión del equipo",
+    "visualReview": "static"
+  }
+}

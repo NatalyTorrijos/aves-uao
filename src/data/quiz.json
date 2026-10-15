@@ -1,0 +1,143 @@
+[
+  {
+    "id": "canto-reinita",
+    "type": "listen",
+    "birdId": "setophaga-pitiayumi",
+    "prompt": "Escucha la grabación que exploraste en el recorrido. ¿Con qué ave está asociada?",
+    "options": [
+      {
+        "id": "reinita",
+        "label": "Reinita Tropical"
+      },
+      {
+        "id": "cernicalo",
+        "label": "Cernícalo Americano"
+      },
+      {
+        "id": "carpintero",
+        "label": "Carpintero Cariblanco"
+      }
+    ],
+    "correctId": "reinita",
+    "explanation": "Esta grabación de referencia se asocia con la Reinita Tropical. Busca el contraste del pecho amarillo-anaranjado con el dorso gris azulado.",
+    "source": {
+      "title": "Grabación XC1184753 y Guía UAO 2023, página PDF 29",
+      "url": "https://xeno-canto.org/1184753",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 29,
+      "verification": "Identidad concordante en metadatos del MP3 y documento; revisión acústica y licencia pendientes antes de publicación."
+    }
+  },
+  {
+    "id": "rasgo-carpintero",
+    "type": "trait",
+    "birdId": "colaptes-rubiginosus",
+    "prompt": "Observa la nuca del Carpintero Cariblanco y su fotografía de referencia. ¿Qué color destaca en ambos sexos?",
+    "options": [
+      {
+        "id": "azul",
+        "label": "Azul intenso"
+      },
+      {
+        "id": "rojo",
+        "label": "Rojo"
+      },
+      {
+        "id": "blanco",
+        "label": "Blanco uniforme"
+      }
+    ],
+    "correctId": "rojo",
+    "explanation": "La guía describe rojo en la nuca de ambos sexos. Su modelo puede permanecer estático mientras observas este rasgo.",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO, 2023",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 22
+    }
+  },
+  {
+    "id": "habitat-mosquerito",
+    "type": "habitat",
+    "birdId": "camptostoma-obsoletum",
+    "prompt": "Elige el ambiente virtual que coincide con una preferencia de hábitat del Mosquerito Silbón.",
+    "options": [
+      {
+        "id": "suelo-sin-plantas",
+        "label": "Pavimento sin vegetación"
+      },
+      {
+        "id": "agua-abierta",
+        "label": "Centro de un lago sin vegetación"
+      },
+      {
+        "id": "bosque-secundario",
+        "label": "Bosque secundario con arbustos"
+      }
+    ],
+    "correctId": "bosque-secundario",
+    "explanation": "El Mosquerito utiliza matorrales y bordes de selva y a menudo prefiere el bosque secundario. Esto no confirma avistamientos en un pin específico.",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO, 2023",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 37
+    }
+  },
+  {
+    "id": "dieta-cernicalo",
+    "type": "diet",
+    "birdId": "falco-sparverius",
+    "prompt": "¿Qué alimento puede capturar el Cernícalo Americano al descender desde una percha?",
+    "options": [
+      {
+        "id": "mamiferos-insectos",
+        "label": "Pequeños mamíferos e insectos"
+      },
+      {
+        "id": "hojas",
+        "label": "Hojas de los árboles"
+      },
+      {
+        "id": "nectar",
+        "label": "Néctar de las flores"
+      }
+    ],
+    "correctId": "mamiferos-insectos",
+    "explanation": "La guía indica que suele descender hacia el suelo para capturar pequeños mamíferos e insectos. Los espacios abiertos le permiten observar desde una percha.",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO, 2023",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 24
+    }
+  },
+  {
+    "id": "conservar-campus",
+    "type": "conservation",
+    "birdId": "chlorostilbon-melanorhynchus",
+    "prompt": "El Colibrí Esmeralda utiliza jardines y bordes con vegetación. ¿Qué acción ayuda a conservar los ambientes de las aves del campus?",
+    "options": [
+      {
+        "id": "retirar-vegetacion",
+        "label": "Retirar toda la vegetación"
+      },
+      {
+        "id": "cuidar-vegetacion",
+        "label": "Cuidar jardines y árboles"
+      },
+      {
+        "id": "pavimentar",
+        "label": "Pavimentar todos los jardines"
+      }
+    ],
+    "correctId": "cuidar-vegetacion",
+    "explanation": "El campus y sus zonas verdes ofrecen lugares para que las aves vivan, se alimenten y se reproduzcan. Conocer y conservar estos ambientes es parte del propósito del proyecto.",
+    "source": {
+      "title": "Guía ilustrada de las aves del Campus UAO, 2023",
+      "file": "GUIA AVES UAO FINAL.pdf",
+      "pdfPage": 4,
+      "additionalPdfPages": [
+        3,
+        18
+      ]
+    }
+  }
+]
