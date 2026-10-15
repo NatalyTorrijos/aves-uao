@@ -1,0 +1,21 @@
+node_modules/
+dist/
+public/vendor/
+tmp/
+.env
+.env.*
+!.env.example
+*.log
+
+# Supplied source documents and full extracts stay local, outside distributable code.
+/Parcial 2.pptx
+/GUIA AVES UAO FINAL.pdf
+/docs/sources/
+/AvesRA/
+
+# Original media and temporary preparation data remain local.
+/recursos-originales/
+/recursos-limpios/
+/propuestas-visuales/
+__pycache__/
+*.pyc
